@@ -1,0 +1,24 @@
+[
+    {
+        "telepon": "6283872509412",
+        "tanggal_lahir": "02-02-1992",
+        "alamat": "Jl. Pangkalan Jati II No. 24, RT 001/RW 002, Pangkalan Jati, Cinere, Kota Depok, Jawa Barat",
+        "nama_lengkap": "Gatari Dewanti",
+        "daerah": "Pangkalan Jati",
+        "identitas_paspor": "3276044202920003",
+        "wilayah": "Kota Depok",
+        "jenis_kelamin": "Female",
+        "lokasi": "Cinere"
+    },
+    {
+        "telepon": "6281234567890",
+        "tanggal_lahir": "15-05-1985",
+        "alamat": "Jl. Kenanga No. 17, RT 003/RW 004, Cipayung, Jakarta Timur, DKI Jakarta",
+        "nama_lengkap": "Andi Setiawan",
+        "daerah": "Cipayung",
+        "identitas_paspor": "3176041505850001",
+        "wilayah": "Jakarta Timur",
+        "jenis_kelamin": "Male",
+        "lokasi": "Cipayung"
+    }
+]
