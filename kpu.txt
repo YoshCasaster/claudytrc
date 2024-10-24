@@ -1,0 +1,822 @@
+1	Goyol	6101170803910004	Laki Laki	Dusun Pinang Merah Utara	026	004	Simpang Empat	09 -09- 1990	Petani/ Pekebun	S			
+2	Zulkarnaen	6101051501630002	Laki Laki	Jalan Penjajap	004	004	TG Balan	15 -01- 1963	Wiraswasta	S			
+3	Zainab Yusup	6101054610550002	Laki Laki	Jalan Penjajap Barat	002	004	Pemangkat	06 -010- 1955	Mengurus Rumah Tangga	S			
+4	Zainab	6101054501750004	Perempuan	GG Bakar	004	008	Mempawah	05 -01- 1975	Mengurus Rumah Tangga	S			
+5	Yuniarti	6101055311810003	Perempuan	Dusun Turi	004	004	Pemangkat	13 -11- 1981	Mengurus Rumah Tangga	S			
+6	Yumita Sari	6101055408880001	Perempuan	Jalan Penjajap Barat	001	003	Pemangkat	14 -08- 1988	Mengurus Rumah Tangga	S			
+7	Yati	6101055310790002	Perempuan	Jalan Penjajap Barat	002	004	Pemangkat	13 -010- 1979	Mengurus Rumah Tangga	S			
+8	Yatem Mahram	6101052507630002	Laki Laki	Jalan Penjajap Barat	002	004	Semparuk	25 -07- 1963	Nelayan Perikanan	S			
+9	Yanti	6101054703740001	Perempuan	Jalan Penjajap Barat	002	004	Sui Toman	07 -03- 1974	Mengurus Rumah Tangga	S			
+10	Yandi	6101051402780003	Laki Laki	Jalan Penjajap Barat	002	004	Pemangkat	14 -02- 1978	Nelayan Perikanan	S			
+11	Winda	6101054202880009	Perempuan	Jalan Penjajap Barat	003	004	Pemangkat	02 -02- 1988	Mengurus Rumah Tangga	S			
+12	Wartinah	6101056204730004	Perempuan	Jalan Penjajap Barat	004	004	S Raya	22 -04- 1973	Mengurus Rumah Tangga	S			
+13	Wan Yusfira	6101052007800006	Laki Laki	Jalan Penjajap Barat	004	004	Pemangkat	20 -07- 1980	Nelayan Perikanan	S			
+14	Waqimin Hairi	6101051004710003	Laki Laki	Jalan Penjajap Barat	002	004	Pemangkat	10 -04- 1971	Wiraswasta	S			
+15	Uray Hidio	6101050210900001	Laki Laki	Jl Pembangunan GG Swakarya	006	005	Pemangkat	02 -010- 1990	Wiraswasta	B			
+16	U Aslinda	6101054107620038	Perempuan	Jalan Penjajap Barat	002	004	Selakau	01 -07- 1962	Mengurus Rumah Tangga	S			
+17	U Asmara	6101055207510003	Perempuan	Jalan Penjajap Barat	004	004	Pemangkat	12 -07- 1951	Mengurus Rumah Tangga	S			
+18	Trikus Aryanto	6101050107750056	Laki Laki	Dusun Turi	004	004	Pemangkat	01 -07- 1975	Buruh Harian Lepas	S			
+19	Toni Wijaya	6101052004780001	Laki Laki	Jalan Penjajap Barat	002	004	Pemangkat	20 -04- 1978	Nelayan Perikanan	S			
+20	Timah	610105550680004	Perempuan	Jalan Penjajap Barat	002	004	Pemangkat	15 -06- 1988	Mengurus Rumah Tangga	S			
+21	Tedi	610105072930005	Laki Laki	Jl Pesisir Pantai Laut	001	003	Pemangkat	07 -02- 1993	Nelayan Perikanan	B			
+22	Tarmizi	6101050102680003	Laki Laki	Jl Pesisir Pantai Laut	001	003	Pemangkat	01 -02- 1968	Wiraswasta	S			
+23	Tarmiji	6101051412740006	Laki Laki	Jalan Penjajap Barat	004	004	Pemangkat	14 -12- 1974	Wiraswasta	S			
+24	T Erlando	6101050601900004	Laki Laki	Pelita 3	001	003	Pemangkat	06 -01- 1990	Wiraswasta	S			
+25	Subiran Majid	6101052908580001	Laki Laki	Jalan Penjajap Barat	004	004	Singkawang	29 -08- 1958	Wiraswasta	S			
+26	Sriandini	6101056309920003	Perempuan	Jl Perum	003	013	Pemangkat	23 -09- 1992	Mengurus Rumah Tangga	S			
+27	Sri Yulianti	6101054307820001	Perempuan	Jalan Penjajap Barat	002	004	Pemangkat	03 -07- 1982	Mengurus Rumah Tangga	S			
+28	Siswandi	6101051406600003	Laki Laki	Jalan Penjajap Barat	002	004	Pemangkat	14 -06- 1960	Wiraswasta	S			
+29	Sinta	6101056405820005	Perempuan	Jalan Penjajap Barat	002	004	Pemangkat	24 -05- 1982	Mengurus Rumah Tangga	S			
+30	Shela	6101054909010001	Perempuan	Jl Olahraga	001	001	Pemangkat	09 -09- 2001	Pelajar / Mahasiswa	B			
+31	Sardian	6101052001700002	Laki Laki	Jalan Penjajap Barat	004	004	Pemangkat	20 -01- 1970	Wiraswasta	S			
+32	Saninah	6101055104580002	Perempuan	Jalan Penjajap Barat	002	004	Pemangkat	11 -04- 1968	Mengurus Rumah Tangga	S			
+33	Sahlanudin	6101050501740002	Laki Laki	Jalan Penjajap Barat	004	004	NTB-RATO	05 -01- 1974	Karyawan Swasta	S			
+34	Safuden	6101050808820005	Laki Laki	Jalan Penjajap Barat	004	004	Pemangkat	08 -08- 1982	Nelayan Perikanan	S			
+35	Rusmina Matjumat	6101054307650004	Perempuan	Jl Pesisir Pantai Laut	001	003	Pemangkat	03 -07- 1965	Mengurus Rumah Tangga	S			
+36	Ronal	610105012840008	Laki Laki	GG Pelita	006	001	Pemangkat	01 -02- 1984	Wiraswasta	S			
+37	Rona Cahyani Siregar	6101055703920001	Perempuan	Jalan Penjajap Barat	001	003	Pemangkat	17 -03- 1992	Mengurus Rumah Tangga	S			
+38	Rohman	6101052907780003	Laki Laki	Jalan Penjajap Barat	047	004	Jakarta	29 -07- 1978	Perdagangan	S			
+39	Rahmi	6101056908790004	Perempuan	Jalan Penjajap Barat	004	004	Pemangkat	29 -08- 1979	Mengurus Rumah Tangga	S			
+40	Rabudi	6101051011730006	Laki Laki	Jalan Penjajap Barat	004	004	Pemangkat	10 -11- 1973	Buruh Harian Lepas	S			
+41	Nurhayati S.Pd.SD	6101054704650003	Perempuan	Jl H Saman	003	012	Pemangkat	07 -04- 1965	Pegawai Negeri Sipil (PNS)	P			
+42	Nuraida	6101055609720001	Perempuan	Jl Penjajap Barat	002	004	Suhapi	16 -09- 1972	Mengurus Rumah Tangga	S			
+43	Nur Rahmawati	6101057006840005	Perempuan	Jl Penjajap Barat	004	004	Ngabang	30 -06- 1984	Mengurus Rumah Tangga	S			
+44	Nina Susanti	6101046805760004	Perempuan	Jl Penjajap Barat	004	004	Segarau Parit	28 -05- 1976	Mengurus Rumah Tangga	S			
+45	Nina	6101056705700002	Perempuan	Jl Penjajap Barat	004	004	p	27 -05- 1970	Mengurus Rumah Tangga	S			
+46	Mutiara S	6101055606610003	Perempuan	Jl Penjajap Barat	004	004	p	16 -06- 1961	Mengurus Rumah Tangga	S			
+47	Muhammad Ramlan	6101051109910001	Laki Laki	Jl Penjajap	004	001	Pemangkat	11 -09- 1991	Pelajar / Mahasiswa	B			
+48	Miswanto	6101052908650006	Laki Laki	Jl Penjajap Barat	004	004	Pemangkat	29 -08- 1965	Wiraswasta	S			
+49	Misno	6101051702810003	Laki Laki	Jl Penjajap Barat	002	004	Sungai Pinang	17 -02- 1981	Wiraswasta	S			
+50	Misnah	6101054505760005	Perempuan	Jl Penjajap Barat	002	004	Pemangkat	06 -05- 1976	Mengurus Rumah Tangga	S			
+51	Misnah	6101054504600002	Perempuan	Jl Penjajap Barat	002	004	Sei Palai	05 -04- 1960	Mengurus Rumah Tangga	S			
+52	Misnadi	610105069650003	Laki Laki	Jl Penjajap Barat	001	004	Pemangkat	06 -09- 1965	Nelayan Perikanan	S			
+53	Mawardi	6101050502530001	Laki Laki	Jl Penjajap Barat	002	004	Pemangkat	05 -02- 1953	Nelayan Perikanan	S			
+54	Mat Asri	6101051006710006	Laki Laki	Jl Pesisir Pantai Laut	001	003	Pemangkat	10 -06- 1971	Nelayan Perikanan	S			
+55	Marlina	6101054602750004	Perempuan	Jl Penjajap Barat	004	004	Pemangkat	24 -02- 1975	Mengurus Rumah Tangga	S			
+56	Mariani	6101054509710005	Perempuan	Jl Penjajap Barat	002	004	Pemangkat	05 -09- 1971	Mengurus Rumah Tangga	S			
+57	Mahendri	6101052511820003	Laki Laki	Jl Melati	005	006	Pemangkat	25 -11- 1982	Wiraswasta	S			
+58	Lontot Suhaili	6101050508710002	Laki Laki	Jl Penjajap Barat	002	004	Pemangkat	05 -08- 1971	Nelayan Perikanan	S			
+59	Linda	6101054701680002	Perempuan	Jl Penjajap Barat	002	004	Pemangkat	07 -01- 1968	Wiraswasta	S			
+60	Kakan	6101050101640005	Laki Laki	Jl Penjajap Barat	002	004	Sukabumi	01 -01- 1964	Buruh Harian Lepas	S			
+61	Julita	6101054806840002	Perempuan	Jl Melati	005	006	Sei Palaka	08 -06- 1964	Mengurus Rumah Tangga	S			
+62	Julina	6101055209620002	Perempuan	Jl Penjajap Barat	002	003	Perasak	12 -09- 1962	Mengurus Rumah Tangga	S			
+63	Julianti	6101054308700006	Perempuan	Jl Penjajap Barat	002	004	Pemangkat	03 -08- 1970	Mengurus Rumah Tangga	P			
+64	Juliadi Igis	6101050206880005	Laki Laki	Jl Pesisir Pantai Laut	001	003	Pemangkat	02 -06- 1988	Nelayan Perikanan	S			
+65	Juanda	6101050107600046	Laki Laki	Jl Penjajap Barat	002	004	Pemangkat	01 -07- 1960	Buruh Harian Lepas	S			
+66	Juanda	6101051811760004	Laki Laki	Jl Penjajap Barat	003	004	Pontianak	18 -11- 1978	Wiraswasta	S			
+67	Jaka	6101050304890006	Laki Laki	Jl Pesisir Pantai Laut	001	003	Pemangkat	03 -04- 1989	Nelayan Perikanan	B			
+68	Jahrah	6101054310420001	Perempuan	Jl Penjajap Barat	003	004	Pemangkat	03 -010- 1942	Mengurus Rumah Tangga	P			
+69	Ismet	6101052202940004	Laki Laki	GG Pelita 4	001	003	Pemangkat	22 -02- 1994	Belum / Tidak Bekerja	B			
+70	Iskandar	6101050308860001	Laki Laki	Jl Penjajap Barat GG Pelita 3	001	003	Pemangkat	03 -08- 1986	Nelayan Perikanan	S			
+71	Indrawati	6101055812780002	Perempuan	Jl Penjajap Barat GG Pelita 4	002	004	Pemangkat	18 -12- 1978	Mengurus Rumah Tangga	S			
+72	Hj Satubah	6101054607330002	Perempuan	Jl H Saman	003	012	Pemangkat	06 -07- 1933	Mengurus Rumah Tangga	P			
+73	Hidayat	6101051107750004	Laki Laki	Jl Penjajap Barat GG Pelita 4	002	004	Pemangkat	11 -07- 1975	Buruh Harian Lepas	S			
+74	Hendrik	6101051403740003	Laki Laki	Jl Penjajap Barat	002	004	Pemangkat	14 -03- 1974	Nelayan Perikanan	S			
+75	Helmi	6101050207750004	Laki Laki	Jl Penjajap Barat	002	004	Pemangkat	02 -07- 1975	Wiraswasta	S			
+76	Hayati	6101056108560003	Perempuan	GG Pelita 4	002	004	Pemangkat	21 -08- 1956	Mengurus Rumah Tangga	S			
+77	Hadiah	6101054204670003	Perempuan	Jl Penjajap	004	004	Semparuk	02 -04- 1967	Mengurus Rumah Tangga	S			
+78	Fitri	6101056101790002	Perempuan	Jl Penjajap Barat	002	004	Pemangkat	21 -01- 1979	Mengurus Rumah Tangga	S			
+79	Firdaus	6101051506900003	Laki Laki	Jl Penjajap Barat GG Pelita 4	002	004	Pemangkat	15 -06- 1990	Nelayan Perikanan	B			
+80	Farida	6101055704640001	Perempuan	Jl Penjajap Barat	001	003	Pemangkat	17 -04- 1964	Mengurus Rumah Tangga	S			
+81	Evi Tamala	6101056308890006	Perempuan	Jl Penjajap Barat	002	004	Jl Penjajap Barat	23 -08- 1989	Wiraswasta	S			
+82	Emzi	6101050507700010	Laki Laki	Jl Melati	002	007	Pemangkat	05 -07- 1970	Buruh Harian Lepas	S			
+83	Dulhadi	6101051703690001	Laki Laki	Jl Penjajap Barat	002	004	Jl Penjajap Barat	17 -03- 1969	Nelayan Perikanan	S			
+84	Dina Marta	6101054201920001	Perempuan	Jl Penjajap Barat No 9	003	004	Pemangkat	02 -01- 1992	Belum / Tidak Bekerja	B			
+85	Dhani Maulana	6101051903040001	Laki Laki	Jalan Kenanga	005	007	Pemangkat	19 -03- 2004	Pelajar / Mahasiswa	B			
+86	Denti	6101054911840005	Perempuan	GG Pelita I	006	001	Pemangkat	09 -11- 1984	Wiraswasta	S			
+87	Darti	6101054106550002	Perempuan	Jl Penjajap Barat	004	004	P Setia	01 -06- 1955	Mengurus Rumah Tangga	S			
+88	Darmadi Igis	6101050304920005	Laki Laki	Jl Pesisir Pantai Laut	001	003	Pemangkat	03 -04- 1992	Nelayan Perikanan	B			
+89	Bustami	6101051512900002	Laki Laki	Jl Penjajap Barat	002	003	Pemangkat	15 -12- 1990	Wiraswasta	S			
+90	Bulaila	6101054211570004	Perempuan	Jl Penjajap Barat No 9	003	004	Pemangkat	02 -11- 1957	Mengurus Rumah Tangga	S			
+91	Aspan S	6101050306460002	Laki Laki	Jl Penjajap Barat	004	004	Pemangkat	03 -06- 1946	Wiraswasta	S			
+92	Asnandi	6109041309750001	Laki Laki	Jl Kenanga	005	007	Pemangkat	13 -09- 1975	Wiraswasta	S			
+93	Asnah	6101054305640001	Perempuan	Jl Penjajap Barat	002	004	Sedanow	03 -05- 1964	Mengurus Rumah Tangga	S			
+94	Asmida	6101054303790003	Perempuan	Jl Penjajap Barat	002	004	Pemangkat	03 -03- 1979	Mengurus Rumah Tangga	S			
+95	Aminah	6101056502730002	Perempuan	Jl Penjajap Barat	047	004	Pemangkat	25 -02- 1973	Mengurus Rumah Tangga	S			
+96	Abrani Saleh	6101050703730005	Laki Laki	Jl Penjajap Barat	002	004	Pemangkat	07 -03- 1973	Wiraswasta	S			
+97	Yusniar	6101054804710004	Perempuan	Jl Anom GG Famili	005	006	Pemangkat	08 -04- 1971	Wiraswasta	P			
+98	Yuniarti	6101055506780006	Perempuan	Jl SDN 4 GG Hamid	005	008	Pemangkat	15 -06- 1978	Mengurus Rumah Tangga	S			
+99	Yuni Artika	610105680890002	Perempuan	Jl Teluk Nusa	002	010	Pemangkat	28 -08- 1998	Pelajar / Mahasiswa	B			
+100	Yudi Atno	6101051606790005	Laki Laki	Jl Pembangunan	006	014	Pemangkat	16 -06- 1979	Wiraswasta	S
+101	Yeni Bujang N	6101054712800004	Perempuan	Jl Pembangunan GG Ali	003	007	Pemangkat	07 -12- 1980	Mengurus Rumah Tangga	S			
+102	Syahyum	6101054508740008	Perempuan	Jl H Saman	001	006	Makminat	05 -08- 1974	Mengurus Rumah Tangga	S			
+103	Syafuad Bulyan	6101050703580007	Laki Laki	Jl H Saman	001	006	Pemangkat	07 -03- 1958	Pensiunan	P			
+104	Sulasmi	6101054606620003	Perempuan	GG Perintis I	002	006	Riau	06 -06- 1962	Mengurus Rumah Tangga	S			
+105	Sukarsih	6101054412720003	Perempuan	JL Anom	005	008	Pemangkat	04 -12- 1972	Mengurus Rumah Tangga	S			
+106	Sukarsih	6101054403770003	Perempuan	GG Family	005	008	Pemangkat	04 -03- 1977	Mengurus Rumah Tangga	S			
+107	Sri Mulyati	6101056306790006	Perempuan	Jl Pembangunan	001	008	Pemangkat	23 -06- 1979	Mengurus Rumah Tangga	S			
+108	Sri Mahyuni	6101056204870005	Perempuan	Jl Anom GG H Yunus	005	008	Pemangkat	22 -04- 1987	Mengurus Rumah Tangga	S			
+109	Solihin	6101050808790006	Laki Laki	Jl SD 4	004	008	Pemangkat	08 -08- 1979	Tukang Kayu	S			
+110	Siti Nuralyda Meltesina	6101057110940002	Perempuan	Jl Teluk Nusa	002	010	Nabire	31 -010- 1994	Pelajar / Mahasiswa	B			
+111	Sinta	6101055208010001	Perempuan	Jl Perintis	005	006	Pemangkat	12 -08- 2001	Pelajar / Mahasiswa	B			
+112	Sarinah	6101054708830003	Perempuan	Jl Pembangunan	006	014	Pemangkat	07 -08- 1983	Mengurus Rumah Tangga	S			
+113	Sara	6101056506610001	Perempuan	Jl SD 4 GG H Hamid	004	008	Pemangkat	25 -06- 1961	Petani / Pekebun	S			
+114	Sapitri	6101075306900001	Perempuan	Jl Sd 4	004	008	Twi Mentibar	13 -06- 1990	Mengurus Rumah Tangga	S			
+115	Saninah	6101054507720009	Perempuan	Jl Anom GG Famili	005	008	Pemangkat	05 -07- 1972	Mengurus Rumah Tangga	S			
+116	Rusmini	6101054604750002	Perempuan	Jl Anom GG H Yunus	005	008	Pemangkat	06 -04- 1975	Mengurus Rumah Tangga	S			
+117	Riski Julhakim	6101052101030002	Laki Laki	GG Family	005	008	Pemangkat	21 -01- 2003	Pelajar / Mahasiswa	B			
+118	Rajumansyah	6101050908870001	Laki Laki	Jl H Saman GG Binter	005	006	Pemangkat	09 -08- 1987	Buruh Harian Lepas	S			
+119	Rahendri	6101052102720002	Laki Laki	GG Family	005	008	Pemangkat	21 -02- 1972	Wiraswasta	S			
+120	Prity Puspasari	6101054502030003	Perempuan	Jl A Rani H Yunus GG Mat Saleh	008	008	Pemangkat	05 -02- 2003	Pelajar / Mahasiswa	B			
+121	Pariyanti	6101055205810007	Perempuan	Jl H Saman	001	006	Pemangkat	12 -05- 1981	Mengurus Rumah Tangga	B			
+122	Parida	6101054408640001	Perempuan	Jl Anom GG Famili	005	008	Pemangkat	04 -08- 1964	Petani / Pekebun	P			
+123	Nurmaen	6101056404640001	Laki Laki	Jl H saman	001	006	Pemangkat	20 -01- 1963	Wiraswasta	S			
+124	Nurham	6101054809530004	Perempuan	Jl A Kasim GG Famili	003	008	Pemangkat	08 -09- 1953	Mengurus Rumah Tangga	S			
+125	Nurbaiti Syukur	6101056504620002	Perempuan	Jl H Saman	001	006	Semparuk	25 -04- 1982	Mengurus Rumah Tangga	S			
+126	Normah M Jani	6101054705590003	Perempuan	Jl Anom GG G Yunus	005	008	Pemangkat	07 -05- 1959	Mengurus Rumah Tangga	P			
+127	Muhammad Hanif	6101052605010003	Laki Laki	GG Family	005	008	Pemangkat	26 -05- 2001	Pelajar / Mahasiswa	B			
+128	Merdekawati	6101055708730008	Perempuan	Jl Anom GG Famili	005	008	Pemangkat	17 -08- 1973	Mengurus Rumah Tangga	S			
+129	Megawati	6101054404720004	Perempuan	Jl A Kasim GG Family	003	008	Pemangkat	04 -04- 1972	Mengurus Rumah Tangga	P			
+130	Masda	6101144606720002	Perempuan	Jl Abdul Kadir Kasim GG Famili	003	008	Sajad	06 -06- 1972	Mengurus Rumah Tangga	S			
+131	Mariati	6101055908870001	Perempuan	GG Famili	003	008	Pemangkat	19 -08- 1987	Mengurus Rumah Tangga	S			
+132	Lisa	6101054506000002	Perempuan	Jl Teluk Nusa	004	010	Pemangkat	05 -06- 2000	Mengurus Rumah Tangga	S			
+133	Lestari	6101056210940005	Perempuan	Jl Sdn 4 GG H Hamid	004	008	Pemangkat	22 -010- 1994	Mengurus Rumah Tangga	S			
+134	Hj Darnisah	6101055901580003	Perempuan	Jalan Pembangunan	004	013	Serasan	19 -01- 1958	Mengurus Rumah Tangga	P			
+135	Herwani	6101051108810005	Laki Laki	Jl Anom GG Famili	005	008	Pemangkat	11 -08- 1981	Buruh Harian Lepas	S			
+136	Hamdi J	6101051903780001	Laki Laki	Jl A Kadir Kasim GG Family	003	008	Pemangkat	19 -03- 1978	Wiraswasta	B			
+137	Galuh Zamrud	6101054407590004	Perempuan	Jalan Anom GG family	005	008	Belitang	17 -08- 1959	Mengurus Rumah Tangga	S			
+138	Fitri Wulan Rahmadani	6112016310060002	Perempuan	Jalan H Saman	002	006	Tanjung Kasih Sayang	23 -010- 2006	Pelajar / Mahasiswa	B			
+139	Eva Novita	6101055309850002	Perempuan	Jl H Saman No 16	001	006	Pemangkat	13 -09- 1985	Mengurus Rumah Tangga	S			
+140	Dini	6101056501030002	Perempuan	Jl H Saman GG Perintis	005	006	Pemangkat	25 -01- 2003	Pelajar / Mahasiswa	B			
+141	Dien Rahma	6101055906030005	Perempuan	Jl H Saman	001	006	Pemangkat	19 -06- 2003	Belum / Tidak Bekerja	B			
+142	Devi	6101054203950001	Perempuan	GG Famili	003	008	Pemangkat	02 -03- 1995	Pelajar / Mahasiswa	B			
+143	Darwin	610105291280004	Laki Laki	Jl SDN 4 GG H Hamid	004	008	Pemangkat	29 -12- 1982	Wiraswasta	S			
+144	Darmadi	6101050810850007	Laki Laki	Gang H Yasin	004	009	Pemangkat	08 -010- 1985	Wiraswasta	B			
+145	Damiri	6101051508560003	Laki Laki	Jl Anom GG Famili	005	008	Jawai	15 -08- 1956	Tukang Kayu	S			
+146	Dadang Sutisna	6101051902820008	Laki Laki	Jl Anom	002	004	Pemangkat	19 -02- 1982	Wiraswasta	B			
+147	Asmadi Adeni K	6101051206740002	Laki Laki	Jl Pembangunan GG Ali Usman	003	007	Pontianak	12 -06- 1974	Wiraswasta	S			
+148	Aliyani	6107085005790001	Perempuan	Jl Sd 4	004	008	Sungai Petai	10 -05- 1979	Mengurus Rumah Tangga	S			
+149	Agus Supriyanto	6101052708830005	Laki Laki	Jl Turusan GG Minahasa	006	009	Pemangkat	27 -08- 1983	Wiraswasta	S			
+150	Sahrum	6101052610960002	Laki Laki	Jalan M Sohor	003	010	Pemangkat	26 -01- 1996	Pelajar / Mahasiswa	B			
+151	Rifka Helfrida Romauli	6101054604960003	Perempuan	Kartini No 04	005	006	Singkawang	06 -04- 1996	Wiraswasta	B			
+152	Ribka Sinta Uli Pan	6101056607000003	Perempuan	Jl Pendidikan Dalam	002	002	Pemangkat	26 -07- 2000	Pelajar / Mahasiswa	B			
+153	Ratna	6101055604790002	Perempuan	Jalan M Sohor	002	012	Semperiuk	16 -04- 1979	Mengurus Rumah Tangga	S			
+154	Putriana	6101074704980003	Perempuan	Bentunai	004	003	Bentunai	07 -04- 1998	Mengurus Rumah Tangga	S			
+155	Purnama Sari	6101054403960004	Perempuan	Jalan M Sohor	005	012	Pemangkat	04 -05- 1996	Pelajar / Mahasiswa	B			
+156	Nur Wulandari	6101056008990002	Perempuan	Jl Banjar Pesisir	005	004	Pemangkat	20 -08- 1999	Pelajar / Mahasiswa	B			
+157	Nicholas Daniel Oloan Pan	6101052205040001	Laki Laki	Jl Pendidikan Dalam	002	002	Pemangkat	22 -05- 2004	Pelajar / Mahasiswa	B			
+158	Nasrullah	610105180350001	Laki Laki	Jl Pendidikan	002	002	Pemangkat	18 -03- 2004	Pelajar / Mahasiswa	B			
+159	Meisila	6101054210910003	Perempuan	Jl M Hambal GG Ilham	001	004	Pemangkat	02 -010- 1991	Mengurus Rumah Tangga	S			
+160	Mariana	6101054104800004	Perempuan	Jl Pendidikan	002	002	Pemangkat	01 -04- 1980	Mengurus Rumah Tangga	S			
+161	Lili Sahbana	6101050403960004	Laki Laki	Jalan M Sohor	005	012	Pemangkat	04 -03- 1996	Pelajar / Mahasiswa	B			
+162	Konstan Panjaitan	6101051703720002	Laki Laki	Jl Pendidikan Dalam	002	002	Pemangkat	17 -03- 1972	Wiraswasta	S			
+163	Junaidi	6101050406690001	Laki Laki	Jalan M Sohor	005	012	Pemangkat	04 -06- 1969	Wiraswasta	S			
+164	Juli Hartanto	6101052707830005	Laki Laki	Jalan Amat Bampek	002	003	Pemangkat	27 -07- 1983	Wiraswasta	S			
+165	Juanda	6101051901980006	Perempuan	Jl Moh Hambal GG Ilham	001	004	Pemangkat	29 -01- 1998	Pelajar / Mahasiswa	B			
+166	Juanda	6101052901980006	Laki Laki	Jl Moh Hambal GG Ilham	001	004	Pemangkat	29 -01- 1998	Pelajar / Mahasiswa	B			
+167	Jesika Kristina Panjaitan	6101055210980003	Perempuan	Jl Pendidikan Dalam	002	002	Pemangkat	12 -010- 1998	Belum / Tidak Bekerja	B			
+168	Hulman Pangaribuan	6101052503660004	Laki Laki	Kartini No 04	005	006	Taput	25 -03- 1966	Pedagang	S			
+169	Hengki	6101050605890007	Laki Laki	Jalan M Sohor	004	008	Pemangkat	06 -05- 1989	Wiraswasta	S			
+170	Firmansyah	6101052008850003	Laki Laki	Jalan M Sohor	002	010	Sanggau Lebo	20 -06- 1985	Wiraswasta	S			
+171	Epredi	6101152007900001	Laki Laki	Jalan Pendidikan	002	002	Sebawi	20 -07- 1990	Wiraswasta	S			
+172	Elis Dawati	6101056112750002	Perempuan	Jalan M Sohor Jembatan 16	004	011	Pemangkat	21 -12- 1975	Wiraswasta	S			
+173	Cong Sulimon	6101051207860007	Laki Laki	Jalan M Sohor	001	009	Pemangkat	12 -07- 1986	Wiraswasta	S			
+174	Ateng Hidayat	6101051502700005	Laki Laki	Jalan M Sohor	002	012	Banjar	15 -02- 1970	Wiraswasta	S			
+175	Angga Prayuda	6101052704970005	Laki Laki	Jl Banjar Kuala	004	003	Pemangkat	27 -04- 1997	Wiraswasta	B			
+176	Alam Syahbana	6101051909040001	Laki Laki	Jalan M Sohor	002	011	Pemangkat	19 -09- 2004	Pelajar / Mahasiswa	B			
+177	Ainul Rubiah	6101056810030001	Perempuan	Jl Moh Hambal GG Ilham	001	004	Pemangkat	28 -010- 2003	Pelajar / Mahasiswa	B			
+178	Yayan	610105057810014	Laki Laki	Dusun Yudha Putra	002	002	Jelutung	05 -07- 1981	Petani / Pekebun	S			
+179	Sintan	6101054302720004	Perempuan	Dusun Yudha Putra	003	002	Jelutung	03 -02- 1972	Petani / Pekebun	S			
+180	Shala	6101056707010001	Perempuan	Dusun Tebing Buluh	003	003	Tebing Buluh	27 -07- 2001	Mengurus Rumah Tangga	S			
+181	Rusnani	6101055108840001	Perempuan	Dusun Yudha Putra	002	002	Jelutung	11 -08- 1984	Petani / Pekebun	S			
+182	Ismi Armadani	6101051980002	Laki Laki	Jl Sejahtera	003	004	Pemangkat	28 -11- 1998	Pelajar / Mahasiswa	B			
+183	Ibrahim	61010507040007	Laki Laki	Dusun Yudha Putra	002	002	Jelutung	07 -07- 2004	Wiraswasta	B			
+184	Fariza	6101054406010002	Perempuan	Dusun Yudha Putra	004	002	Jelutung	04 -06- 2001	Pelajar / Mahasiswa	B			
+185	Erwansyah	6101051006690004	Laki Laki	Dusun Yudha Putra	002	002	Jelutung	10 -06- 1969	Petani / Pekebun	S			
+186	Dendi	6101050510010002	Laki Laki	Dusun Yudha Putra	002	002	Jelutung	05 -010- 2001	Pelajar / Mahasiswa	B			
+187	Chung Oi Ha	6101056206830004	Perempuan	Dusun Sei Lakum	004	004	Sungai Purun	22 -06- 1983	Mengurus Rumah Tangga	S			
+188	Aswandi	610105031960007	Laki Laki	Dusun Yudha Putra	001	002	Jelutung	03 -01- 1996	Petani / Pekebun	S			
+189	Wiwin Hendrawati	6101056111770003	Perempuan	Jl Abdul Kadir Kasim GG Jamaludin	005	003	Pemangkat	21 -09- 1977	Mengurus Rumah Tangga	S			
+190	Tan Taiwan	6101050602680002	Laki Laki	Jl Abdul Kadir Kasim GG Jamaludin	005	003	Pemangkat	06 -02- 1968	Wiraswasta	S			
+191	Risky	6101050211030002	Laki Laki	Jl Sejahtera GG H Tudin	004	003	Pemangkat	02 -11- 2003	Pelajar / Mahasiswa	B			
+192	Reki Aprian	6101051309970005	Laki Laki	Jl Abdul Kadir Kasim GG Jamaludin	005	003	Pemangkat	13 -11- 1996	Pelajar / Mahasiswa	B			
+193	Putra Aidil Adha	6101052701050005	Laki Laki	Jl Anom GG H Raduan	004	004	Pemangkat	27 -01- 2005	Pelajar / Mahasiswa	B			
+194	Nur Afiza	6101055212030003	Perempuan	Jl Abdul Kadir Kasim	005	003	Pemangkat	12 -12- 2003	Pelajar / Mahasiswa	B			
+195	Mis Junaidi	610105013690005	Laki Laki	Jl Sejahtera GG H Tudin	004	003	Pemangkat	01 -03- 1969	Wiraswasta	S			
+196	Hengky Rahmat	6101050411010004	Laki Laki	Jl Sejahtera	003	004	Pemangkat	04 -11- 2001	Pelajar / Mahasiswa	B			
+197	Anto Ariyadi	6101052810970004	Laki Laki	Jl Sejahtera	003	004	Pemangkat	28 -010- 1997	Pelajar / Mahasiswa	B			
+198	Aal Divikar	6101050311030001	Laki Laki	Jl A Kadir Kasim	005	003	Pemangkat	03 -11- 2003	Buruh Harian Lepas	B			
+199	Yusnaidi	6101132509960002	Laki Laki	Dusun Gersik	006	002	Sekura	25 -09- 1996	Pelajar / Mahasiswa	B			
+200	Sutrisna Juliana	6101054201790006	Perempuan	Dusun Sungai Palai	001	001	Pemangkat	02 -01- 1979	Mengurus Rumah Tangga	S
+201	Supardi	6101051307950001	Laki Laki	Dusun Siapat	002	001	Pemangkat	15 -07- 1995	Belum / Tidak Bekerja	B			
+202	Sariwin	610105420590008	Perempuan	Jalan Pembangunan	002	007	Teluk Keramat	07 -12- 1995	Wiraswasta	B			
+203	Sahadin	6101050512880003	Laki Laki	Jalan Pembangunan	002	007	Sei Baru	05 -12- 1988	Wiraswasta	B			
+204	Rendy	2103072411021002	Laki Laki	Dusun Sebangkau	002	003	Singkawang	24 -11- 2002	Belum / Tidak Bekerja	B			
+205	Paraini	6101056509870004	Perempuan	Dusun SImpuan	003	001	Pemangkat	25 -09- 1987	Karyawan Swasta	S			
+206	Novianti	6101014711970004	Perempuan	Dusun Sadayan	009	005	Sambas	07 -11- 1997	Pelajar / Mahasiswa	B			
+207	Ng Oi Bui	6101051611780001	Laki Laki	Jalan Pembangunan	004	001	Pemangkat	16 -11- 1978	Wiraswasta	S			
+208	Masnah	6101055606800001	Perempuan	Jln Badak Putih	001	002	Pemangkat	16 -06- 1980	Mengurus Rumah Tangga	S			
+209	Kurniawan	6101073112980001	Laki Laki	Dusun Hilir	003	002	Sungai Adong	31 -12- 1998	Pelajar / Mahasiswa	B			
+210	Kelvin	6101051803020001	Laki Laki	Jln Badak Putih	001	002	Pemangkat	18 -03- 2002	Pelajar / Mahasiswa	B			
+211	Joni Susanto	6101050503890009	Laki Laki	Dusun Sebangkau	002	003	Sebangkau	05 -03- 1989	Wiraswasta	S			
+212	Hamsiah Asri	6101055203500003	Perempuan	Jalan Pembangunan	002	007	Sei Baru	12 -03- 1950	Petani / Pekebun	P			
+213	Evrizal Agustin	6101131608990004	Laki Laki	Dusun Gersik	008	002	Gersik	16 -08- 1999	Pelajar / Mahasiswa	B			
+214	Erma Marchini	6101054606890002	Perempuan	Jln Badak Putih	004	002	Pemangkat	06 -05- 1989	Mengurus Rumah Tangga	S			
+215	Dila Isnawati	6101015111960003	Perempuan	Dusun Siapat	002	001	Sambas	11 -11- 1996	Wiraswasta	B			
+216	Daryo	6172052206890002	Laki Laki	Dusun Serdang	004	002	Sambas	22 -06- 1989	Petani / Pekebun	S			
+217	Darwin	6101051211860004	Laki Laki	Jalan Pangsuma	006	002	Pemangkat	12 -11- 1986	Buruh Tani / Perkebunan	S			
+218	Zainudin	6101052712690003	Laki Laki	Jalan Sosial Penjajap	004	013	Pemangkat	27 -12- 1969	Nelayan Perikanan	S			
+219	Yanti	6101054406740003	Perempuan	Jalan Sosial Perum Penjajap	002	013	Pemangkat	04 -06- 1974	Mengurus Rumah Tangga	S			
+220	Uman Syah	6101052005720005	Laki Laki	Jalan Sosial Perum Penjajap	002	013	Pemangkat	20 -05- 1972	Nelayan Perikanan	S			
+221	Uray Setia Wati	6101055812050001	Perempuan	Jalan Sosial	002	013	Pemangkat	18 -12- 2005	Pelajar / Mahasiswa	B			
+222	Uray Permana	6101052405030001	Laki Laki	Jl Sejahtera GG Aw Jafar	005	004	Pemangkat	20 -05- 2003	Pelajar / Mahasiswa	B			
+223	Suwardi	6101052404820010	Laki Laki	Jalan Sosial Perum Penjajap	001	013	Pemangkat	24 -04- 1982	Nelayan Perikanan	S			
+224	Susanti	6101054810790001	Perempuan	Jalan Sosial	002	013	Pemangkat	08 -010- 1979	Mengurus Rumah Tangga	S			
+225	Suryadi	6101052709680004	Laki Laki	Jalan Sosial	005	013	Pemangkat	27 -09- 1968	Buruh Harian Lepas	S			
+226	Suriana	6101055101980004	Perempuan	Perum Penjajap	005	013	TG. Buluh	11 -01- 1998	Mengurus Rumah Tangga	S			
+227	Sures	6101050506970003	Laki Laki	Jalan Sosial Perum Penjajap	005	013	Pemangkat	05 -06- 1997	Wiraswasta	B			
+228	Suparman	6101051410890001	Laki Laki	Jl Penjajap Barat	003	004	Tanjung Buluh	14 -010- 1989	Nelayan Perikanan	S			
+229	Sudirman	6101050508800006	Laki Laki	Jalan Sosial Perum Penjajap	005	013	Pemangkat	05 -08- 1980	Wiraswasta	B			
+230	Suada	6101054202550007	Perempuan	Jl Cemara	003	001	Parit Kongsi	02 -02- 1958	Mengurus Rumah Tangga	S			
+231	Sitam	6101054703680001	Perempuan	Jalan Sosial Perum Penjajap	003	013	Pemangkat	07 -03- 1968	Mengurus Rumah Tangga	S			
+232	Sinta	6101054911930004	Perempuan	Jl Kenanga	006	007	Pemangkat	09 -11- 1993	Pelajar / Mahasiswa	S			
+233	Satunah	6101054307600002	Perempuan	Jalan Sosial Perum Penjajap	003	013	Pemangkat	03 -07- 1960	Mengurus Rumah Tangga	S			
+234	Satria	6101052101800002	Laki Laki	Jl Cemara GG Pelita 1	004	001	Pemangkat	21 -01- 1980	Wiraswasta	S			
+235	Saroji	6101050810550003	Laki Laki	Jalan Sosial Perum Penjajap	003	013	Pemangkat	08 -010- 1955	Wiraswasta	S			
+236	Sabirin	6101052107790001	Laki Laki	Jl M Damin	005	014	Selakau Kuala	21 -07- 1979	Karyawan Swasta	S			
+237	Rusnani	6101055907600003	Perempuan	Jalan Sosial	005	013	Pemangkat	19 -07- 1960	Mengurus Rumah Tangga	P			
+238	Rusmini	6101054512670002	Perempuan	Jalan Sosial Perum Penjajap	005	013	Pemangkat	05 -12- 1967	Mengurus Rumah Tangga	P			
+239	Rukayah	6101056503330001	Perempuan	Jl Penjajap Barat	004	004	Pemangkat	25 -03- 1933	Belum / Tidak Bekerja	P			
+240	Rudi Hartono	6101051207860008	Laki Laki	Jalan Sosial	005	013	Indramayu	12 -07- 1986	Nelayan Perikanan	S			
+241	Rositah	6101055406740003	Perempuan	Jalan Sosial Perum Penjajap Dsn Cempaka	002	013	Pemangkat	14 -06- 1974	Mengurus Rumah Tangga	S			
+242	Robet	6101051608890002	Laki Laki	Jalan Sosial Perum Penjajap	005	013	Pemangkat	16 -08- 1989	Nelayan Perikanan	S			
+243	Rizan Mardiansah	6101051003010004	Laki Laki	Jl Penjajap Timur GG Swakarya 7	004	014	Pemangkat	10 -03- 2001	Pelajar / Mahasiswa	B			
+244	Riki	6101051904960046	Laki Laki	Jalan Sosial Perum	005	013	Pemangkat	19 -04- 1996	Nelayan Perikanan	B			
+245	Ria Utami	6101056002020002	Perempuan	Jalan Sosial Perum Penjajap	005	013	Pemangkat	20 -02- 2002	Mengurus Rumah Tangga	S			
+246	Reski Afrizal	6101051704020004	Laki Laki	Gang Keluarga	005	008	Pemangkat	17 -04- 2002	Pelajar / Mahasiswa	B			
+247	Rendi Agustian	6101051408990003	Laki Laki	Jl Kenanga	006	007	Pemangkat	14 -08- 1999	Pelajar / Mahasiswa	B			
+248	Rahmawati	6101055805900004	Perempuan	Jalan Sosial	005	013	Pemangkat	18 -05- 1990	Mengurus Rumah Tangga	S			
+249	Rahman	6101051903970003	Laki Laki	Perum Penjajap	005	013	Pemangkat	19 -03- 1997	Nelayan Perikanan	S			
+250	Rahem	610105180720005	Laki Laki	Jalan Sosial Perum Penjajap	005	013	Pemangkat	18 -07- 1982	Nelayan Perikanan	S			
+251	Rabuni	6101050708630003	Laki Laki	Jalan Sosial	004	013	Pemangkat	07 -06- 1963	Nelayan Perikanan	S			
+252	Rabunah Ismail	6101054305650002	Perempuan	Jl Cemara GG Pelita	004	001	Pemangkat	03 -05- 1965	Mengurus Rumah Tangga	S			
+253	Putri Arisma	6101055904030002	Perempuan	Perum Penjajap	005	013	Pemangkat	18 -04- 2002	Pelajar / Mahasiswa	B			
+254	Parit	6101052506890006	Laki Laki	Jalan Sosial Perum Penjajap	004	013	Pemangkat	25 -08- 1989	Pedagang	S			
+255	Nurhayati	6101054404680003	Perempuan	Jalan Sosial Dusun Sempaka	001	013	pe	04 -04- 1968	Mengurus Rumah Tangga	S			
+256	Nur Sila	6101054311050003	Perempuan	Jalan Sosial	005	013	Pemangkat	03 -11- 2005	Pelajar / Mahasiswa	B			
+257	Nana	6101054509790008	Perempuan	Jalan Sosial	005	013	Pemangkat	08 -09- 1979	Mengurus Rumah Tangga	S			
+258	Muslimin	6101050212790002	Laki Laki	Penjajap Perum GG Sosial	003	013	Sei Toman	02 -12- 1979	Wiraswasta	S			
+259	Muhammad Rizal	6101052906020001	Laki Laki	Jalan Sosial	005	013	Pemangkat	29 -06- 2002	Belum / Tidak Bekerja	B			
+260	Muhammad Riyan	6101051302060003	Laki Laki	Jl Penjajap Barat	001	004	Pemangkat	13 -02- 2006	Pelajar / Mahasiswa	B			
+261	Muhammad	6101051007710001	Laki Laki	Jl Kenanga	005	007	Pemangkat	10 -07- 1971	Nelayan Perikanan	S			
+262	Mona	6101055206810005	Perempuan	Jalan Sosial Perum Penjajap	002	013	Pemangkat	12 -06- 1981	Mengurus Rumah Tangga	S			
+263	Mena	6101054512950004	Perempuan	Jl Penjajap Timur	007	014	Pemangkat	05 -12- 1995	Mengurus Rumah Tangga	S			
+264	Megawati	6101054210720003	Perempuan	Jalan Cemara	001	002	Pemangkat	02 -010- 1972	Mengurus Rumah Tangga	S			
+265	Mastura	6101054907780002	Perempuan	Penjajap Perum GG Sosial	003	013	Pemangkat	09 -07- 1978	Mengurus Rumah Tangga	S			
+266	Mail Hama	610105040504003	Laki Laki	Jalan Cemara GG Pelita	004	001	Pemangkat	04 -05- 2004	Pelajar / Mahasiswa	B			
+267	Linda	6101056505740001	Perempuan	Jalan Sosial Perum Penjajap	004	013	Pemangkat	25 -05- 1974	Mengurus Rumah Tangga	S			
+268	Lina	6101136812880001	Perempuan	Jl Cemara GG Pelita	004	001	Pemangkat	28 -12- 1988	Mengurus Rumah Tangga	S			
+269	Lidia Sari	6101056206860004	Perempuan	Jalan Sosial Perum Penjajap	005	013	Pemangkat	22 -06- 1986	Mengurus Rumah Tangga	S			
+270	Leonardi	6101051508910007	Laki Laki	Jalan Sosial	004	013	Pemangkat	05 -08- 1991	Wiraswasta	S			
+271	Lamsah	6101054507830005	Perempuan	Jalan Sosial Perum	004	013	Pemangkat	05 -07- 1963	Mengurus Rumah Tangga	S			
+272	Kristoforus	6109060801000001	Laki Laki	Jalan Sungai Perum Penjajap	002	013	Gelombang Tasak	08 -01- 2000	Wiraswasta	S			
+273	Karmila	6101055207830003	Perempuan	Jalan Sosial	002	013	Pemangkat	12 -07- 1983	Mengurus Rumah Tangga	P			
+274	Juliana	6101056407930001	Perempuan	Jalan Sosial	004	013	Pemangkat	04 -07- 1993	Mengurus Rumah Tangga	S			
+275	Jamiat	6101162104850001	Laki Laki	Jl Penjajap Timur	005	013	Sei Batang	21 -04- 1985	Wiraswasta	S			
+276	Jailani	6101050608880003	Laki Laki	Jalan Sosial Perum Penjajap	002	013	Pemangkat	06 -08- 1968	Wiraswasta	B			
+277	Iskandar Mansyur	6101051908740001	Laki Laki	Jalan Sosial	005	013	Pemangkat	10 -08- 1974	Wiraswasta	P			
+278	Irsan	6101050709540002	Laki Laki	Jalan Sosial Perum Penjajap Dsn Cempaka	004	013	Pemangkat	07 -09- 1964	Wiraswasta	S			
+279	Ipur Wandi	6101050708920005	Laki Laki	Perum GG Sosial	003	013	Pemangkat	07 -08- 1992	Belum / Tidak Bekerja	B			
+280	Herwani	6101051905780001	Laki Laki	Jalan Penjajap	004	013	Gersik	19 -05- 1978	Nelayan Perikanan	S			
+281	Herdi	6101160101860006	Laki Laki	Jalan Sosial Perum Penjajap	005	013	Sarilaba	01 -01- 1986	Wiraswasta	S			
+282	Fitriani	6101056103940006	Perempuan	Jl Kenanga	005	007	Pemangkat	21 -03- 1994	Mengurus Rumah Tangga	S			
+283	Erni	6101056103750004	Perempuan	Jl M Damin	005	014	Pemangkat	21 -03- 1975	Mengurus Rumah Tangga	S			
+284	Endang Sri Sumiati	6101054605740004	Perempuan	Jalan Sosial	005	013	Pemangkat	06 -05- 1974	Mengurus Rumah Tangga	S			
+285	Endang	6101054705670001	Perempuan	Jl Gereja GG Nelayan II	001	010	Pemangkat	07 -05- 1967	Mengurus Rumah Tangga	S			
+286	Elsa	6101056901030001	Perempuan	Jl Penjajap Timur	005	013	Pemangkat	29 -01- 2003	Pelajar / Mahasiswa	B			
+287	Eko	6101050406970001	Laki Laki	Jl Olahraga GG Tengah	004	002	Sungai Kakap	04 -08- 1997	Nelayan Perikanan	S			
+288	Efina	6101055204910005	Perempuan	Jl Gereja GG Nelayan	001	010	Pemangkat	12 -04- 1991	Mengurus Rumah Tangga	S			
+289	Edi Perima	6101050808960003	Laki Laki	Jalan Sosial	004	013	Pemangkat	08 -08- 1996	Wiraswasta	B			
+290	Dwi Anggara	6101051912050001	Laki Laki	Dusun Turi	002	004	Pemangkat	18 -12- 2005	Belum / Tidak Bekerja	B			
+291	Diana	6101054706820008	Perempuan	Dusun Turi	003	004	Pemangkat	07 -06- 1982	Mengurus Rumah Tangga	S			
+292	Dwi Permatasari	6101054611900001	Perempuan	Jalan Sosial Perum Penjajap	001	013	Pemangkat	06 -11- 1990	Mengurus Rumah Tangga	S			
+293	Dela Utami	6101054308020003	Perempuan	Jl Kenanga	006	007	Pemangkat	03 -08- 2002	Pelajar / Mahasiswa	B			
+294	Darmawan	6101050303790008	Laki Laki	Jl Penjajap Barat	003	004	Pemangkat	03 -03- 1979	Wiraswasta	S			
+295	Dana Lisa	6101055102860002	Perempuan	Jalan Sosial	005	013	Pemangkat	11 -02- 1980	Wiraswasta	B			
+296	Daeng Saputra	6101052501920004	Laki Laki	Jl Penjajap Barat	004	004	Pemangkat	25 -01- 1992	Wiraswasta	S			
+297	Cayuni	6101054501850001	Perempuan	Jalan Sosial Perum Penjajap	005	013	Pemangkat	05 -01- 1985	m	S			
+298	Astiah	6101054203560002	Perempuan	Perum GG Sosial	003	013	Pemangkat	02 -03- 1956	Mengurus Rumah Tangga	S			
+299	Asmah	6101056509830002	Perempuan	Jalan Sosial Perum Penjajap	005	013	Pemangkat	25 -09- 1983	m	S			
+300	Aslinda	6101055705820002	Perempuan	Jl Penjajap	004	013	Pemangkat	17 -05- 1982	Mengurus Rumah Tangga	S	
+301	Anton	6101050201800002	Laki Laki	Jl Penjajap Timur	005	013	Pemangkat	02 -01- 1980	Nelayan Perikanan	S			
+302	Anita	6101055004920008	Perempuan	Jalan Sosial Perum Penjajap	005	013	Pemangkat	10 -04- 1992	Mengurus Rumah Tangga	P			
+303	Aldiansyah	6101050906010001	Laki Laki	Jl Penjajap	004	013	Pemangkat	09 -06- 2001	Belum / Tidak Bekerja	B			
+304	Alde	6101050809030004	Laki Laki	Jalan Sosial Perum Penjajap	005	013	Pemangkat	08 -09- 2003	Belum / Tidak Bekerja	B			
+305	Aida	6101056709900003	Perempuan	Jl Cemara GG M Ali	005	001	Pemangkat	17 -08- 1990	Belum / Tidak Bekerja	B			
+306	Agus	6101051708730004	Laki Laki	Jl Pesisir Pantai Laut	004	007	Pemangkat	17 -08- 1973	Wiraswasta	S			
+307	Andriyan	6101050101050003	Laki Laki	Jalan Kenanga	005	007	Pemangkat	01 -01- 2005	Belum / Tidak Bekerja	B			
+308	A Slamet	610105030980003	Laki Laki	Jalan Sosial Perum Penjajap	001	013	Indramayu	03 -09- 1968	Nelayan Perikanan	S			
+309	Surianti	6101055904790005	Perempuan	Dusun Yudha Putra	001	002	Jawai	19 -04- 1975	Petani / Pekebun	S			
+310	Sumi	6101054207800007	Perempuan	Dsn Tebing Buluh	003	003	Tg Buluh	02 -07- 1980	Petani / Pekebun	S			
+311	Slamet	6101052812800003	Laki Laki	Dusun Tebing Buluh	003	003	Jateng	28 -12- 1980	Petani / Pekebun	S			
+312	Anisa Wulandari	3519146812990001	Perempuan	Dusun Yuda Putra	003	002	Madiun	28 -11- 1999	Wiraswasta	B			
+313	Yuliani	6101056105780001	Perempuan	Jl Sosial	005	013	Pontianak	06 -05- 1977	Mengurus Rumah Tangga	S			
+314	Yemi Pratiwi	6101056204740002	Perempuan	Jl Cemara	005	002	Pemangkat	22 -04- 1974	Mengurus Rumah Tangga	S			
+315	Warno	6101051408920006	Laki Laki	Jl Sosial	002	013	Pemangkat	14 -08- 1992	Nelayan Perikanan	S			
+316	Usi Reksi	6101050808960004	Laki Laki	Jl Sosial	004	013	Pemangkat	08 -08- 1996	Nelayan Perikanan	B			
+317	Suwarno	6101052001930004	Laki Laki	Jl Penjajap Timur GG Swakarya 7	003	014	Pemangkat	20 -01- 1993	Sopir	S			
+318	Sulaiman	6101051103700005	Laki Laki	Jl Sosial Dusun Sempaka	001	013	Pemangkat	11 -03- 1970	Buruh Harian Lepas	S			
+319	Sari Susi Selawati	6101054911960004	Perempuan	Jl Penjajap Barat	001	003	Pemangkat	09 -11- 1996	Mengurus Rumah Tangga	S			
+320	Rusnah	6101054105780002	Perempuan	Jl Penjajap Timur GG Swakarya	001	006	Pemangkat	01 -05- 1978	Mengurus Rumah Tangga	S			
+321	Roki	6101051207020002	Laki Laki	Jl Gereja GG Nelayan	001	010	Pemangkat	12 -07- 2002	Pelajar / Mahasiswa	B			
+322	Rohana	6101055204640001	Perempuan	Jl Penjajap Barat	003	004	Pemangkat	12 -04- 1964	Mengurus Rumah Tangga	S			
+323	Riansah Ependi	2103040411820001	Laki Laki	Jl Pesisir Pantai Laut	003	003	Midai	04 -11- 1982	Karyawan Swasta	S			
+324	Riansyah	6101051429980004	Laki Laki	Jl Sosial Perum Penjajap	004	013	Pemangkat	14 -09- 1984	Pelajar / Mahasiswa	B			
+325	Riana	6101054905670004	Perempuan	Jl Sosial	004	013	Pemangkat	09 -05- 1967	Mengurus Rumah Tangga	S			
+326	Reza Mukti	6101056801000001	Perempuan	Jl Sosial	005	013	Pemangkat	28 -01- 2000	Pelajar / Mahasiswa	B			
+327	Pandi	6101050107670027	Laki Laki	Jl Sosial Perum	004	013	Pemangkat	01 -07- 1967	Nelayan Perikanan	S			
+328	Nina Susanti	61010468005760004	Perempuan	Jl Penjajap Barat	004	004	Segarau Parit	28 -05- 1975	Mengurus Rumah Tangga	S			
+329	Nia Rosana	6101054601970002	Perempuan	Jl Penjajap Barat	002	003	Singkawang	06 -01- 1997	Mengurus Rumah Tangga	S			
+330	Nasir	6101051607540005	Laki Laki	Jl Kartini Dalam	003	006	Pemangkat	15 -07- 1964	Buruh Harian Lepas	P			
+331	Mutia Sari	6101055006040002	Perempuan	Jl Sosial Perum Penjajap	001	013	Pemangkat	10 -08- 2004	Pelajar / Mahasiswa	B			
+332	Minem	6101055004670005	Perempuan	Dusun Turi	004	003	Wonogiri	10 -04- 1967	Mengurus Rumah Tangga	S			
+333	Mariyam	6101055212750004	Perempuan	Jl Sosial	004	013	Pemangkat	12 -12- 1975	Mengurus Rumah Tangga	S			
+334	Maisaroh	6101056305040001	Perempuan	Jl Penjajap Timur gg Swakarya 7	004	014	Pemangkat	23 -05- 2004	Mengurus Rumah Tangga	S			
+335	M Helza	610105040840002	Laki Laki	Jl Penjajap Barat	002	003	Pemangkat	04 -08- 2004	Belum / Tidak Bekerja	B			
+336	M Arif	6101051707570004	Laki Laki	Jl Sosial Perum Penjajap	005	013	Pemangkat	17 -07- 1957	Buruh Harian Lepas	S			
+337	Kurniawati	6101054109820005	Perempuan	Jl Penjajap Timur	001	001	Pemangkat	01 -09- 1982	Mengurus Rumah Tangga	S			
+338	Kamarudin	6101050712620002	Laki Laki	Jl Nelayan	002	009	Pemangkat	07 -12- 1962	Nelayan Perikanan	P			
+339	Kaliza	6101154107990006	Perempuan	GG Pelita	001	003	Sebawi	01 -07- 1999	Mengurus Rumah Tangga	S			
+340	Juliana	6101055207840007	Perempuan	Jl Sosial Perum Penjajap	001	013	Pemangkat	12 -07- 1984	Mengurus Rumah Tangga	S			
+341	Julaiha	6101054107510041	Perempuan	Jl Sosial	005	013	Pemangkat	01 -07- 1951	Mengurus Rumah Tangga	S			
+342	Jayadi Aspan	6101050209800003	Laki Laki	Jl Sosial Perum Penjajap	004	013	Pemangkat	02 -09- 1980	Nelayan Perikanan	S			
+343	Jaka	610105034890006	Laki Laki	Dusun Cempaka	001	013	Pemangkat	03 -04- 1989	Nelayan Perikanan	S			
+344	Ismail Muhammad	6101052010600008	Laki Laki	Penjajap Perum	003	013	Pemangkat	20 -010- 1960	Nelayan Perikanan	S			
+345	Husada	6101054105880006	Perempuan	Jl Penjajap Timur GG Abdul Wahid	001	014	Pemangkat	01 -05- 1968	Mengurus Rumah Tangga	S			
+346	Hezil Rivaldi	6101052206050001	Laki Laki	Jl Penjajap Timur GG Madrasah	001	014	Pemangkat	22 -06- 2005	Pelajar / Mahasiswa	B			
+347	Heri Subrata	6101053003880005	Laki Laki	Jl Penjajap Timur GG Abdul wahid	001	014	Pemangkat	30 -03- 1988	Wiraswasta	S			
+348	Gustam	6101050105740003	Laki Laki	Jl Sosial Perum Penjajap	002	013	Pemangkat	01 -06- 1974	Nelayan Perikanan	S			
+349	Gilang Safta Hadi	6101052111990001	Laki Laki	Jl Sosial Perum	005	013	Pemangkat	21 -11- 1999	Pelajar / Mahasiswa	B			
+350	Firwati	6101054309970003	Perempuan	Jl Moh Sohor	003	010	Sekabau	03 -06- 1997	Pelajar / Mahasiswa	B			
+351	Desitria	6101054812910002	Perempuan	Jl Sosial Perum Penjajap	004	013	Pemangkat	08 -12- 1991	Mengurus Rumah Tangga	S			
+352	Darnisah	6101055802800004	Perempuan	Jl Cemara	003	001	Pemangkat	18 -02- 1980	Mengurus Rumah Tangga	S			
+353	Darmanto Madun	6101050401740002	Laki Laki	Jl Sosial	004	013	Pemangkat	04 -01- 1974	Nelayan Perikanan	S			
+354	Beti	6101055911760001	Perempuan	Jl Pesisir Pantai Laut	004	004	Pemangkat	10 -11- 1976	Mengurus Rumah Tangga	S			
+355	Barlian	6101044509800008	Perempuan	Jl Perum Penjajap	005	013	Sidang	05 -09- 1080	Petani / Pekebun	S			
+356	Asnan	6101052408730001	Laki Laki	Jl Cemara	003	001	Pemangkat	24 -08- 1973	Buruh Harian Lepas	S			
+357	Andri	6101051701020005	Laki Laki	Jl Sosial	003	013	Pemangkat	17 -01- 2002	Belum / Tidak Bekerja	B			
+358	Aisah	6101054301060001	Perempuan	Jl Sosial Perum Penjajap	005	013	Pemangkat	03 -01- 2006	Pelajar / Mahasiswa	B			
+359	Afriani	6101055608650003	Perempuan	Jalan Penjajap Barat	004	007	Pemangkat	18 -08- 1985	Mengurus Rumah Tangga	S			
+360	Abd Rachman	6101041509460002	Laki Laki	Dusun Turi	004	004	Segarau Parit	15 -09- 1948	Petani / Pekebun	P			
+361	Yaya	6101055010920002	Perempuan	Jl Penjajap Timur	003	014	Pemangkat	10 -010- 1992	Mengurus Rumah Tangga	S			
+362	Yatimah	6101056504830007	Perempuan	Jl Nelayan	001	010	Pemangkat	25 -04- 1983	Mengurus Rumah Tangga	S			
+363	Warnani	6101055611800006	Perempuan	Jalan Penjajap Timur	003	013	Pemangkat	16 -11- 1980	Mengurus Rumah Tangga	S			
+364	Uci Ariani	6101135104950002	Perempuan	Jalan Perum Penjajap	002	013	Simpuan	11 -010- 1995	Mengurus Rumah Tangga	S			
+365	Suwito	6101051907700002	Laki Laki	Jl Sosial Perum	005	013	Jatim	19 -07- 1970	Buruh Harian Lepas	S			
+366	Supriyono	6101051005650003	Laki Laki	Jalan Sosial Perum Penjajap	001	013	Kediri	10 -05- 1965	Wiraswasta	S			
+367	Sri Kasyati	6101055212860006	Perempuan	Jl Cemara	001	001	Singkawang	12 -12- 1988	Wiraswasta	P			
+368	Rusnani	6101054206970003	Perempuan	Jl Sosial	005	013	Pemangkat	02 -06- 1997	Mengurus Rumah Tangga	S			
+369	Rusida	6101055308660002	Perempuan	Jl Sosial	004	013	Pemangkat	13 -08- 1968	Mengurus Rumah Tangga	S			
+370	Rumina	6101054901810002	Perempuan	Perum Penjajap	005	013	Pemangkat	09 -01- 1981	Mengurus Rumah Tangga	S			
+371	Rina	6101054602850004	Perempuan	Jalan Sosial Penjajap Timur	001	013	Pemangkat	09 -02- 1985	Wiraswasta	S			
+372	Rian Rahman	6101052302940002	Laki Laki	Jalan Perum Penjajap	002	013	Pemangkat	23 -02- 1994	Wiraswasta	S			
+373	Ramli	6101050509590002	Laki Laki	Jalan Sosial Perum	003	013	Pemangkat	05 -09- 1959	Nelayan Perikanan	S			
+374	Pitra	6101051004900001	Laki Laki	Jl Sosial	005	013	Pemangkat	10 -04- 1990	Wiraswasta	S			
+375	Peny	6101055602010006	Perempuan	Ds Cempaka GG Darmawan	007	014	Pemangkat	16 -02- 2001	Mengurus Rumah Tangga	S			
+376	Nurpika	6101055106890004	Perempuan	Jalan Sosial Perum Penjajap	003	013	Pemangkat	11 -06- 1989	Mengurus Rumah Tangga	S			
+377	Nur'aini	6101054107610054	Perempuan	Penjajap Perum	003	013	Pemangkat	01 -07- 1961	Mengurus Rumah Tangga	S			
+378	Norman Akim	6101052508050001	Laki Laki	Jl Penjajap Timur	005	013	Pemangkat	25 -08- 2005	Pelajar / Mahasiswa	B			
+379	Najiah	6101054908760001	Perempuan	Jl Sosial	005	013	Pemangkat	09 -08- 1976	Mengurus Rumah Tangga	P			
+380	Mulyati	6101076107820001	Perempuan	Dsn Cempaka	001	013	Parit Baru	21 -07- 1982	Mengurus Rumah Tangga	S			
+381	Misno	6101050609790006	Laki Laki	Jalan Sosial Perum Penjajap	004	013	Pemangkat	06 -09- 1979	Nelayan Perikanan	S			
+382	Marno	6101090406030001	Laki Laki	Jalan Sosial Perum Penjajap	002	013	Banjarnegara	04 -06- 2003	Wiraswasta	S			
+383	Mariani	6101054307650002	Perempuan	Jl Sosial	005	013	Pemangkat	03 -07- 1965	Mengurus Rumah Tangga	S			
+384	Lisa	6101054107870041	Perempuan	Jalan Sosial Dsn Sempaka	001	013	Pemangkat	01 -07- 1987	Wiraswasta	B			
+385	Lastri Ana	6101056811750004	Perempuan	GG Swakarya 5	002	005	Pemangkat	28 -11- 1975	Mengurus Rumah Tangga	S			
+386	Kepin	6101051103050002	Laki Laki	Perum Penjajap	005	013	Pemangkat	11 -03- 2005	Pelajar / Mahasiswa	B			
+387	Kartina	6101054803820001	Perempuan	Jl Penjajap Timur	005	013	Pemangkat	08 -03- 1982	Mengurus Rumah Tangga	S			
+388	Kamelia	6101055506930002	Perempuan	Jalan Sosial Perum Penjajap	001	013	Perapakan	15 -06- 1993	Mengurus Rumah Tangga	S			
+389	Jumadi	6101050907760004	Laki Laki	Jl Penjajap Timur	003	005	Pemangkat	06 -04- 1976	Nelayan Perikanan	S			
+390	Julita	6101054901830002	Perempuan	Jalan Penjajap Timur	005	013	Pemangkat	09 -01- 1983	Mengurus Rumah Tangga	S			
+391	Johandi	6101050803780002	Laki Laki	Jalan Perum Penjajap	005	013	Pemangkat	06 -06- 1980	Buruh Nelayan Perikanan	S			
+392	Iwan Gunawan	6101052810790004	Laki Laki	GG Swakarya 5	002	005	Semperiuk	28 -010- 1979	Wiraswasta	S			
+393	Irma	6101056210950001	Perempuan	Jalan Sosial	001	013	Salatiga	22 -010- 1995	Pelajar / Mahasiswa	B			
+394	Herdi	6101050104760007	Laki Laki	Jalan Penjajap Timur	005	013	Pemangkat	01 -04- 1976	Nelayan Perikanan	S			
+395	Hayati	6101056009830001	Perempuan	Jalan Sosial Perum Penjajap	004	013	Pemangkat	20 -09- 1983	Mengurus Rumah Tangga	S			
+396	Gustana	6101072107800002	Laki Laki	Dusun Cempaka	001	013	Pemangkat	21 -07- 1980	Nelayan Perikanan	S			
+397	Fina	6101056001910004	Perempuan	Jalan Sosial Perum Penjajap	005	013	Pemangkat	20 -01- 1991	Mengurus Rumah Tangga	S			
+398	Erik Yadi	6101052709030004	Laki Laki	Jalan Sosial Perum	003	013	Pemangkat	27 -09- 2003	Pelajar / Mahasiswa	B			
+399	Erda	6101054110880010	Perempuan	Jalan Sosial	004	013	Pemangkat	01 -010- 1988	Wiraswasta	B			
+400	Endri	6101052006890002	Laki Laki	Jalan Sosial Perum Penjajap	005	013	Pemangkat	20 -06- 1989	Wiraswasta	S	
+401	Eldi	6101050504780006	Laki Laki	Jalan Sosial	002	013	Pemangkat	05 -04- 1978	Nelayan Perikanan	S			
+402	Eko Prayitno	6101052909880003	Laki Laki	Jalan Sosial Perum Penjajap	001	013	Pemangkat	29 -09- 1988	Nelayan Perikanan	B			
+403	Dini Ariany	6101055702840001	Perempuan	Jl Sosial Dsn Cempaka	001	013	Pemangkat	17 -02- 1984	Mengurus Rumah Tangga	P			
+404	Dimas Dian Suraji	6101050402000005	Laki Laki	Jl Penjajap Barat	005	004	Pemangkat	04 -02- 2000	Nelayan Perikanan	B			
+405	Deni	6101051710920001	Laki Laki	Jl Melati	001	008	Pemangkat	17 -010- 1992	Nelayan Perikanan	B			
+406	Belilla	6101055908040001	Perempuan	Jalan Perum Penjajap	005	013	Pemangkat	19 -08- 2004	Belum / Tidak Bekerja	B			
+407	Awaludin	6101050110800005	Laki Laki	Jl Penjajap Timur	004	014	Pemangkat	01 -010- 1980	Nelayan Perikanan	S			
+408	Arman	6101050411040001	Laki Laki	Jalan Sosial Perum	005	013	Pemangkat	04 -11- 2004	Pelajar / Mahasiswa	B			
+409	Arip	6101051204800005	Laki Laki	Perum Penjajap	005	013	Pemangkat	12 -04- 1980	Nelayan Perikanan	S			
+410	Ari Yani	6101056101020002	Perempuan	Jalan Sosial Perum Penjajap	002	012	Pemangkat	21 -01- 2002	Mengurus Rumah Tangga	S			
+411	Abdah	6101055202700002	Perempuan	Perum Penjajap	004	013	Pemangkat	12 -02- 1970	Mengurus Rumah Tangga	S			
+412	Zidah	6101054605540002	Perempuan	Jl Penjajap Barat	002	004	Pemangkat	06 -05- 1954	Mengurus Rumah Tangga	S			
+413	Wasli M Nuur	6101050408480003	Laki Laki	Jl Penjajap Barat	002	004	Pemangkat	04 -08- 1948	Petani / Pekebun	S			
+414	Waldi	6101052004850003	Laki Laki	Jl Penjajap Barat	002	004	Pemangkat	20 -04- 1985	Wiraswasta	S			
+415	Toni Sanjaya	6101052206860005	Laki Laki	Jl Pesisir Penjajap	005	002	Pemangkat	22 -06- 1986	Wiraswasta	B			
+416	Syapinah	6101054107490029	Perempuan	Jl Penjajap Barat	003	004	Sungai Kelambu	01 -07- 1949	Mengurus Rumah Tangga	S			
+417	Syahrul	6101051406770007	Laki Laki	Jl Sosial Perum Penjajap	004	013	Penyalai Riau	14 -06- 1977	Nelayan Perikanan	S			
+418	Susi Susanti	6101055008030004	Perempuan	GG Swakarya 7	004	005	Pemangkat	10 -08- 2003	Wiraswasta	B			
+419	Sumiati	6101055501750004	Perempuan	Jl Sosial Perum Penjajap	004	013	Pemangkat	15 -01- 1975	Mengurus Rumah Tangga	S			
+420	Sumarni	6101055906830004	Perempuan	Jl Melati GG Bakung	003	007	Pemangkat	19 -06- 1983	Mengurus Rumah Tangga	S			
+421	Sugeng Riyadi	6101051201670002	Laki Laki	Jl Penjajap Timur	003	013	Bantul	12 -01- 1967	Wiraswasta	S			
+422	Sri Wahyuni	6101056406990002	Perempuan	GG Swakarya 5	007	007	Pemangkat	24 -06- 1999	Pelajar / Mahasiswa	B			
+423	Sofiana	6101056710980001	Perempuan	Perum Penjajap	005	013	Pemangkat	12 -01- 2000	Karyawan Swasta	S			
+424	Siska Saputri	6101055811960006	Perempuan	Jl Penjajap Timur	003	013	Singkawang	18 -11- 1996	Mengurus Rumah Tangga	S			
+425	Sarimin Mariun	6101052105680003	Laki Laki	Jl Penjajap Barat	002	004	Pemangkat	21 -05- 1968	Wiraswasta	S			
+426	Saparudin	6101051204790007	Laki Laki	Jl Penjajap Barat	003	004	Pemangkat	12 -04- 1979	Wiraswasta	S			
+427	Salim Yatim	6101052312380002	Laki Laki	Jl Penjajap Barat	002	004	Pemangkat	23 -12- 1938	Buruh Harian Lepas	P			
+428	Rusida	6101054209670003	Perempuan	Jl Penjajap Barat	002	004	Pemangkat	02 -09- 1967	Mengurus Rumah Tangga	S			
+429	Rukiah	6101056305600003	Perempuan	Jl Sosial Perum Penjajap Dsn Cempaka	005	013	Pemangkat	23 -05- 1960	Mengurus Rumah Tangga	S			
+430	Patimah	610105403650003	Perempuan	Jl Penjajap Barat	003	004	Pemangkat	05 -03- 1965	Mengurus Rumah Tangga	S			
+431	Palina A	6101054109630005	Perempuan	GG Swakarya 5	007	007	Pemangkat	01 -09- 1963	Mengurus Rumah Tangga	S			
+432	Nina Wati	6101056012010002	Perempuan	Jl Sosial Perum Penjajap	005	013	Jawai	20 -12- 2001	Belum / Tidak Bekerja	B			
+433	Mursinah	6101056108610002	Perempuan	Jl Penjajap Barat	002	004	Pemangkat	21 -08- 1961	Mengurus Rumah Tangga	S			
+434	Muhammad Ashary	6101051209960006	Laki Laki	GG Swakarya 2	004	006	Pemangkat	12 -09- 1996	Pelajar / Mahasiswa	B			
+435	Misdiah	6101054906940001	Perempuan	Jl Banjar Kuala	002	003	Pemangkat	09 -06- 1994	Belum / Tidak Bekerja	B			
+436	Melisa	6101054106840009	Perempuan	Jl Penjajap Barat	003	004	Pemangkat	01 -06- 1984	Mengurus Rumah Tangga	S			
+437	Maria Martini	6101056709610003	Perempuan	Jl Penjajap Barat	002	004	Sambas	27 -09- 1981	Mengurus Rumah Tangga	S			
+438	Mailamah	6101054205410002	Perempuan	1953	007	007	Pemangkat	08 -04- 2024	Mengurus Rumah Tangga	P			
+439	Mahdi	6101052004670003	Laki Laki	Jl Sosial	002	013	Pemangkat	20 -04- 1967	Buruh Tani / Perkebunan	S			
+440	Kurnia Sari	6101055803690004	Perempuan	Jl Penjajap Timur	003	013	Pemangkat	18 -03- 1969	Mengurus Rumah Tangga	S			
+441	Jakariya	6101052701920001	Laki Laki	Jl Penjajap Barat	003	004	Pemangkat	27 -01- 1992	Wiraswasta	S			
+442	Indra Sunanjaya	6101051809000001	Laki Laki	Jl Melati GG Bakung	003	007	Pemangkat	18 -09- 2000	Pelajar / Mahasiswa	B			
+443	Hendra Toni	6101051103820006	Laki Laki	Jl Melati GG Bakung	003	007	Pemangkat	11 -03- 1982	Wiraswasta	S			
+444	Hazizah	6101055708710007	Perempuan	GG Swakarya 7	004	005	Pemangkat	17 -08- 1971	Mengurus Rumah Tangga	S			
+445	Harnina	6101054912900003	Perempuan	Jl Pembangunan GG Keluarga	005	008	Pemangkat	09 -12- 1990	Wiraswasta	B			
+446	Habibi	6101051302820001	Laki Laki	Jl Cempaka	004	007	Pemangkat	13 -02- 1962	Wiraswasta	S			
+447	Evi Nuryati	6101065902880002	Perempuan	Jl Sosial	004	013	Maklebar	19 -02- 1988	Petani / Pekebun	S			
+448	Evi Kurnia	6101055206750003	Perempuan	Jl Penjajap Barat	002	004	Pemangkat	12 -06- 1975	Wiraswasta	S			
+449	Endang Suryono	6101051208730003	Laki Laki	Jl Penjajap Barat	002	004	Pemangkat	12 -08- 1973	Wiraswasta	S			
+450	Edi	6101052702890001	Laki Laki	Jl Sosial Perum Penjajap	005	013	Mensere	26 -11- 1986	Nelayan Perikanan	S			
+451	Durani	6101051007580006	Laki Laki	Jl Penjajap Barat	003	004	Pemangkat	10 -07- 1958	Wiraswasta	S			
+452	Dul Alip	6101050604520004	Laki Laki	Perum Penjajap	005	013	Pemangkat	06 -010- 1958	Nelayan Perikanan	S			
+453	Dhita Vanilla	6101056004000001	Perempuan	Jl Kenanga	005	002	Pemangkat	20 -04- 2000	Pelajar / Mahasiswa	B			
+454	Desi	6101055912910001	Perempuan	Jl Sosial Perum Penjajap	001	013	Pemangkat	19 -12- 1991	Mengurus Rumah Tangga	S			
+455	Bambang Sugiono Bin Adi	6101051007650001	Laki Laki	Jl Penjajap Barat	002	004	Pemangkat	10 -07- 1965	Buruh Harian Lepas	S			
+456	Bahrudin	6101050101810006	Laki Laki	Jl Penjajap Barat	002	004	Pemangkat	01 -01- 1981	Wiraswasta	B			
+457	Awang Amirul Adha	6101051011900005	Laki Laki	Jl Kenanga	005	007	Pemangkat	10 -11- 1990	Wiraswasta	S			
+458	Ardianto	6101051708590005	Laki Laki	GG Pelita 4	002	004	Tayan	17 -08- 1959	Perdagangan	S			
+459	Amat	6101051206800006	Laki Laki	Jl Penjajap Timur GG Swakarya 5	007	007	Pemangkat	12 -06- 1980	Wiraswasta	S			
+460	Aina	6101055107670001	Perempuan	Jl Penjajap Barat	002	004	Pemangkat	11 -07- 1967	Mengurus Rumah Tangga	S			
+461	Agustina	6101054203750001	Perempuan	Jl Penjajap Barat	003	004	Sungai Jaga	02 -03- 1975	Mengurus Rumah Tangga	S			
+462	Abdul Ajis	6101050102580008	Laki Laki	Jl Penjajap Barat	003	004	Sepinggan	01 -02- 1958	Nelayan Perikanan	S			
+463	Yuni Fitrianti	6101056001960003	Perempuan	Jalan Sosial	006	013	Pemangkat	20 -01- 1996	Mengurus Rumah Tangga	S			
+464	Wiwin Susanti	6101056004870008	Perempuan	Jl Penjajap Barat	004	004	Letong	04 -02- 1987	Mengurus Rumah Tangga	S			
+465	Widia Adhana	6101054603010001	Perempuan	Jalan Kenanga	004	007	Pemangkat	08 -03- 2001	Pelajar / Mahasiswa	B			
+466	Wendi Novesa	6101050611830001	Laki Laki	Jalan Sosial	005	013	Pemangkat	06 -11- 1983	Nelayan Perikanan	S			
+467	Usman	6101051607670002	Laki Laki	Jalan Sosial Perum Penjajap	004	013	Pemangkat	15 -07- 1967	Wiraswasta	S			
+468	Uray Karina	6101054107700043	Perempuan	Jalan Sosial	001	013	Pemangkat	01 -07- 1970	Mengurus Rumah Tangga	S			
+469	Tuti Wahyuni	6101056405020004	Perempuan	Jalan Sosial Perum Penjajap	007	014	Pemangkat	24 -05- 2002	Pelajar / Mahasiswa	B			
+470	Suriani	6473035207870007	Perempuan	Jl Kenanga	006	007	Pemangkat	12 -07- 1987	Mengurus Rumah Tangga	S			
+471	Selawati	6101054505940012	Perempuan	Jalan Sosial Perum Penjajap	004	013	Pemangkat	05 -05- 1994	Pelajar / Mahasiswa	B			
+472	Samiri	6101050603010002	Laki Laki	Jalan Sosial Perum Penjajap	001	013	Serdang	06 -03- 2001	Wiraswasta	S			
+473	Roby	6101053107910005	Laki Laki	Jl Penjajap Timur	004	005	Pemangkat	31 -07- 1991	Pelajar / Mahasiswa	B			
+474	Riski	6101050110040001	Laki Laki	Jalan Sosial	004	013	Penjajap	01 -010- 2004	Pelajar / Mahasiswa	B			
+475	Ramlan	6101054107720031	Perempuan	Jalan Sosial Perum	004	013	Pemangkat	01 -07- 1972	Mengurus Rumah Tangga	S			
+476	Rahimi	6101051903970004	Laki Laki	Perum Penjajap	005	013	Pemangkat	19 -03- 1997	Nelayan Perikanan	S			
+477	Pisharjo	6101050502890002	Laki Laki	Jalan Perum Sosial	005	013	Pemangkat	05 -02- 1986	Nelayan Perikanan	S			
+478	Pina	6101055602010005	Perempuan	Jalan Sosial Perum Penjajap	001	013	Pemangkat	16 -02- 2001	Mengurus Rumah Tangga	S			
+479	Pendi	6101051710960001	Laki Laki	Jalan Sosial	005	013	Singkawang	17 -010- 1996	Nelayan Perikanan	S			
+480	Pardi	6101051208750010	Laki Laki	Jalan Sosial Perum Penjajap	005	013	Maktangguk	12 -08- 1975	Nelayan Perikanan	S			
+481	Nurhayati	6101045907860006	Perempuan	Jl Penjajap Barat	001	003	Teluk Pasir	19 -07- 1986	Petani / Pekebun	P			
+482	Nur Rudiyanto	6101052406690002	Laki Laki	Jalan Sosial Perum	001	013	K. Progo	24 -06- 1969	Wiraswasta	S			
+483	Nur Anisa	6107150565910005	Perempuan	Jalan Sosial Dusun Cempaka	003	013	Karimunting	05 -05- 1991	Mengurus Rumah Tangga	S			
+484	Nora	6101154910900002	Perempuan	Jalan Sosial	002	013	Sambas	08 -010- 1990	Mengurus Rumah Tangga	S			
+485	Neny Cahyati	6101055611990008	Perempuan	Jl Penjajap Timur	001	014	Singkawang	16 -05- 1997	Mengurus Rumah Tangga	S			
+486	Nazahari	6101050704730005	Laki Laki	Jalan Sosial Perum	005	013	Pemangkat	07 -04- 1973	Buruh Nelayan Perikanan	S			
+487	Najiah	6101055408830005	Perempuan	Jalan Sosial	004	013	Selakau	14 -08- 1983	Mengurus Rumah Tangga	S			
+488	Muriat	6101050201820002	Laki Laki	Jalan Sosial	004	003	Pemangkat	20 -03- 1982	Wiraswasta	S			
+489	Mismawati	6101055012770005	Perempuan	Jalan Sosial	002	013	Pemangkat	10 -12- 1977	Mengurus Rumah Tangga	S			
+490	Misdi	6101052406820006	Laki Laki	Jalan Sosial Perum Penjajap	003	013	Pemangkat	24 -06- 1982	Nelayan Perikanan	S			
+491	Maya	6101055505800008	Perempuan	Jl Penjajap Timur GG Swakarya 5	007	007	Pemangkat	15 -05- 1980	Mengurus Rumah Tangga	S			
+492	Maulana	6101051604960003	Laki Laki	Jl Penjajap Barat	004	004	Pemangkat	10 -01- 1996	Wiraswasta	S			
+493	Lili Misyati	6101054102820006	Perempuan	Jalan Kenanga	006	007	Pemangkat	01 -02- 1982	Mengurus Rumah Tangga	S			
+494	Liberti	6107084511020004	Perempuan	Perum Penjajap	005	013	Menterado	05 -11- 2002	Mengurus Rumah Tangga	S			
+495	Kartini	6101185208900001	Perempuan	Jalan Sosial	001	013	Sungai Toman	12 -08- 1990	Mengurus Rumah Tangga	S			
+496	Jumiati	2171055907799001	Perempuan	Jalan Sosial	004	013	Pemangkat	25 -02- 1982	Wiraswasta	B			
+497	Juliarti	6101054502770004	Perempuan	Jalan Sosial Perum Penjajap	005	013	Singkawang	05 -02- 1977	Mengurus Rumah Tangga	S			
+498	Juhardi	6101032209920002	Laki Laki	Jl Perum Penjajap	005	003	Sentebang	27 -09- 1992	Petani / Pekebun	B			
+499	Johara	610105411750002	Perempuan	Jalan Sosial Perum	005	013	Pemangkat	05 -11- 1975	Mengurus Rumah Tangga	S			
+500	Jatimah	6101054508670004	Perempuan	Perum Penjajap	005	013	Pemangkat	05 -08- 1967	Mengurus Rumah Tangga	S	
+501	Iswandi	6101050506540005	Laki Laki	Jl Kenanga	006	007	Pemangkat	06 -06- 1954	Wiraswasta	S			
+502	Iskandar	6101051410920002	Laki Laki	Jl Pesisir Pantai Laut	003	003	Pemangkat	14 -010- 1992	Nelayan Perikanan	B			
+503	Iir Humaira	6101055410900002	Perempuan	Jalan Sosial Perum Penjajap	004	013	Pemangkat	14 -010- 1990	Mengurus Rumah Tangga	S			
+504	Hephendi	6101050902900002	Laki Laki	Jl Penjajap Barat GG Pelita 4	001	003	Pemangkat	09 -02- 1990	Nelayan Perikanan	S			
+505	Hendra	6101053009880003	Laki Laki	GG Swakarya 5	007	007	Tebas	30 -09- 1988	Nelayan Perikanan	S			
+506	Hamdani	6101052311590003	Laki Laki	GG Swakarya 5	007	007	Semparuk	23 -11- 1959	Wiraswasta	S			
+507	Feri Susanto	3212150510860002	Laki Laki	Jalan Sosial Perum Penjajap	001	013	Indramayu	03 -010- 1986	Nelayan Perikanan	S			
+508	Erma Yunita	6101055610860002	Perempuan	Jalan Sosial Perum Penjajap	001	013	Pemangkat	16 -010- 1996	Wiraswasta	P			
+509	Eka Sinta Sari	6101054907760007	Perempuan	Jalan Sosial Perum	001	013	Pemangkat	09 -07- 1976	Mengurus Rumah Tangga	S			
+510	Dewi Lestari	6101055009970005	Perempuan	Jalan Sosial	005	013	Pemangkat	10 -09- 1997	Mengurus Rumah Tangga	S			
+511	Dewi	6101056711870005	Perempuan	Jalan Sosial Perum Penjajap	004	013	Pemangkat	27 -11- 1987	Mengurus Rumah Tangga	S			
+512	Detri	6101050202880007	Laki Laki	Jalan Sosial	001	013	Pemangkat	02 -02- 1988	Wiraswasta	B			
+513	Denny	6101061409830006	Laki Laki	Jalan Sosial Perum Penjajap	004	013	Pemangkat	14 -09- 1988	Nelayan Perikanan	S			
+514	Deni	6101051202010001	Laki Laki	Jalan Sosial	004	013	Pemangkat	12 -02- 1999	Belum / Tidak Bekerja	B			
+515	Dede Iswari	6101051101910003	Laki Laki	Jalan Sosial	004	013	Pemangkat	11 -01- 1991	Wiraswasta	B			
+516	Bujang	6101052802870005	Laki Laki	Jalan Sosial	004	013	Pemangkat	28 -02- 1987	Nelayan Perikanan	S			
+517	Berlin Pratama	6101054712000003	Perempuan	Dusun Turi	003	004	Pemangkat	07 -12- 2000	Belum / Tidak Bekerja	P			
+518	Atik	6101055910810002	Perempuan	Jalan Sosial Perum Penjajap D Cempaka	004	013	Pemangkat	19 -010- 1981	Mengurus Rumah Tangga	S			
+519	Aspan A.H	610105611680002	Laki Laki	Jalan Sosial	006	013	Pemangkat	06 -11- 1968	Buruh Harian Lepas	S			
+520	Aslina	6101054102840005	Perempuan	Jl Penjajap Barat	004	004	Pemangkat	01 -02- 1984	Mengurus Rumah Tangga	S			
+521	Ario Dinra	6101050804870006	Laki Laki	Jalan Penjajap TImur	007	014	Pemangkat	08 -04- 1987	Nelayan Perikanan	S			
+522	Aril Saputra	6101052712050003	Laki Laki	Jalan Penjajap Barat	004	004	Pemangkat	27 -12- 2005	Belum / Tidak Bekerja	B			
+523	Alfis	6101051204010006	Laki Laki	Jalan Sosial Perum Penjajap	005	013	Pemangkat	12 -04- 2001	Nelayan Perikanan	S			
+524	Ainah	6101054606890004	Perempuan	Jalan Sosial Perum Penjajap	003	013	Sebangkau	06 -06- 1985	Mengurus Rumah Tangga	S			
+525	Ahmad	6101051203620002	Laki Laki	Jalan Sosial	005	013	Pemangkat	12 -03- 1962	Nelayan Perikanan	S			
+526	Agustini	6101054408830006	Perempuan	Jl Pembangunan GG Lembah	002	008	Pemangkat	04 -08- 1983	Mengurus Rumah Tangga	S			
+527	Adi Mulyadi	6101053011880005	Laki Laki	Jl Penjajap Barat	004	004	Pemangkat	30 -11- 1988	Nelayan Perikanan	S			
+528	Achmadi	6101050605020003	Laki Laki	Jalan Sosial	001	013	Pemangkat	06 -05- 2002	Pelajar / Mahasiswa	B			
+529	Suhardi	6101050101750001	Laki Laki	Dusun Enggadang	001	001	Sidang	01 -01- 1975	Wiraswasta	S			
+530	Rizal	6101051101050001	Laki Laki	Dusun Enggadang	002	001	Enggadang	11 -01- 2005	Petani / Pekebun	B			
+531	Muhammad Alfat Dani	6101050703030002	Laki Laki	Dusun Enggadang	004	001	Enggadang	07 -03- 2003	Pelajar / Mahasiswa	B			
+532	Majadi	6101051207770001	Laki Laki	Dusun Enggadang	001	001	Enggadang	12 -07- 1977	Wiraswasta	B			
+533	Hamadi	6101052503690003	Laki Laki	Dusun Enggadang	002	001	Enggadang	25 -03- 1969	Petani / Pekebun	S			
+534	Eka Martini Putri	6101045503900003	Perempuan	Dusun Sange Besi	001	001	Sempalai	15 -03- 1990	Wiraswasta	S			
+535	Sumilatun	350927540970004	Perempuan	Jl Sejahtera	001	006	Kediri	14 -07- 1979	Mengurus Rumah Tangga	S			
+536	Misrawati	6101054505560006	Perempuan	Jl Sejahtera	003	005	Serunai	05 -05- 1958	Mengurus Rumah Tangga	S			
+537	Dariatik	6101055805560002	Perempuan	Jl Sejahtera	002	006	Singkawang	19 -05- 1958	Mengurus Rumah Tangga	S			
+538	Yus'an	6101011912720001	Laki Laki	Dusun Dagang Timur	003	002	Sambas	19 -12- 1972	Wiraswasta	B			
+539	Norsinah	6101126710760003	Perempuan	Dusun Panggilan Bakti	006	003	Sempadian	27 -010- 1976	Mengurus Rumah Tangga	S			
+540	Wahyudi	6101051812840007	Laki Laki	Jl M Sohor	003	011	Pemangkat	18 -12- 1984	Wiraswasta	S			
+541	Vika Indrianti	6101056603980003	Perempuan	Jl. Pendidikan	004	002	Pemangkat	25 -03- 1998	Pelajar / Mahasiswa	B			
+542	U. Serli	6101055211980004	Perempuan	Jl. Hasanuddin	005	002	Pemangkat	12 -11- 1998	Belum / Tidak Bekerja	B			
+543	Selvi	6101054112750007	Perempuan	Jl H Uray Bawadi	001	007	Pemangkat	01 -12- 1975	Wiraswasta	B			
+544	Sari Kusumawati	6101055105910002	Perempuan	Jl M Sohor	002	010	Pemangkat	11 -05- 1991	Mengurus Rumah Tangga	B			
+545	Sari Andayani	6101054508860001	Perempuan	Jl Banjar Pesisir	004	004	Medan	05 -08- 1986	Mengurus Rumah Tangga	S			
+546	Saipul Asmadi	6101052310730002	Laki Laki	Jl Banjar Pesisir	004	004	Pemangkat	23 -010- 1973	Wiraswasta	S			
+547	Rudi Hartono	6101050808720008	Laki Laki	Jl. M Sohor	001	009	Pemangkat	08 -05- 1972	Wiraswasta	S			
+548	Rina	6101056511690002	Perempuan	Jl Gedung Nasional	003	008	Pemangkat	25 -11- 1969	Perdagangan	P			
+549	Rangga Aditiya	6101050312920004	Laki Laki	Jl Kartini	005	006	Pontianak	03 -12- 1992	Wiraswasta	S			
+550	Pijaya	6101050607900004	Laki Laki	Jl. M Sohor	003	010	Pemangkat	06 -07- 1990	Wiraswasta	B			
+551	Nurul Hakiki	6101054603980003	Perempuan	Jl. M Sohor	001	009	Pemangkat	06 -03- 1998	Pelajar / Mahasiswa	B			
+552	Neti	6101056201800002	Perempuan	GG Setia	004	002	Pemangkat	27 -01- 1980	Mengurus Rumah Tangga	S			
+553	Mariati	6101055008820008	Perempuan	Jl. M Sohor	001	009	Pemangkat	10 -08- 1982	Mengurus Rumah Tangga	S			
+554	Maman Subari	6101050404530002	Laki Laki	Jl. M Sohor	002	010	Ciamis	04 -04- 1953	Pedagang	S			
+555	Kurniati	6101054502890001	Perempuan	Jl Gedung Nasional	003	008	Pemangkat	05 -02- 1989	Mengurus Rumah Tangga	S			
+556	Joko Susanto	6101052706900004	Laki Laki	Jl. M Sohor	004	011	Pemangkat	27 -06- 1996	Wiraswasta	B			
+557	Johni Munandar	6101051906680002	Laki Laki	Jl Hasanuddin	004	002	Pontianak	19 -08- 1968	Nelayan Perikanan	S			
+558	Jamilah	6101055206580008	Perempuan	Jl Pendidikan GG Setia	004	002	Pemangkat	12 -05- 1959	Mengurus Rumah Tangga	B			
+559	Herman	6101050511770004	Laki Laki	GG Setia	004	002	Satak	05 -11- 1977	Wiraswasta	S			
+560	Hendri Yono	6101052212740002	Laki Laki	Jl Kartini	005	006	Pemangkat	27 -12- 1974	Wiraswasta	S			
+561	Hayati	6101055808730009	Perempuan	Jl. M Sohor	004	011	Pemangkat	18 -08- 1973	Mengurus Rumah Tangga	S			
+562	Elius	6101054208620001	Perempuan	Jl. M Sohor	002	010	Pemangkat	02 -08- 1962	Mengurus Rumah Tangga	S			
+563	Desi Purnamasari	6101056312860003	Perempuan	Jl M Sohor	003	011	Pemangkat	23 -12- 1986	Wiraswasta	S			
+564	Amiruddin	6101050606660004	Laki Laki	Jl Hasanuddin	005	002	Pemangkat	06 -06- 1956	Wiraswasta	S			
+565	Tarwin Saputra	6101050405790004	Laki Laki	Jl Sejahtera	001	006	Brebes	04 -05- 1979	Wiraswasta	S			
+566	Yuliana Eka	6101054608700005	Perempuan	Jl Pembangunan	004	001	Tayan Hilir	06 -08- 1970	Mengurus Rumah Tangga	S			
+567	Susanti	6101054201760003	Perempuan	Jalan Anom	001	004	Pemangkat	02 -01- 1976	Mengurus Rumah Tangga	S			
+568	Suherbiyan	6101050204860003	Laki Laki	Jl Pembangunan	001	007	Pemangkat	02 -04- 1996	Wiraswasta	S			
+569	Rusmini	6101054112720004	Perempuan	Jl Badak Putih	003	002	Pemangkat	01 -12- 1972	Mengurus Rumah Tangga	S			
+570	Rina St Alimudin	6101055608890010	Perempuan	Jl Parit Kongsi	003	004	Pemangkat	16 -08- 1969	Mengurus Rumah Tangga	P			
+571	Ratna Sari	6101165512990002	Perempuan	Jl Pembangunan GG Batu	004	001	Ramayadi	15 -12- 1999	Mengurus Rumah Tangga	S			
+572	Nurhasanah	6101055607970005	Perempuan	Jl Badak Putih	002	002	Pemangkat	16 -07- 1977	Belum / Tidak Bekerja	B			
+573	Niarsih	6101055111640004	Perempuan	Jl Badak Putih GG Mangga	007	002	Pemangkat	11 -11- 1964	Mengurus Rumah Tangga	S			
+574	Nazwa Auralia	6101056209050004	Perempuan	Jl Badak Putih GG Padi	006	002	Pemangkat	22 -09- 2005	Pelajar / Mahasiswa	B			
+575	Maulida	6101054107910001	Perempuan	Jl Badak Putih	004	002	Pemangkat	01 -07- 1991	Mengurus Rumah Tangga	S			
+576	Marina	6101054612990004	Perempuan	Jl Badak Putih	002	002	Pemangkat	06 -12- 1999	Pelajar / Mahasiswa	B			
+577	Hasbi S.IP	6101051309890003	Laki Laki	Jl Badak Putih	003	002	Toabo	13 -09- 1989	Wiraswasta	S			
+578	Firdaus	6101042406840005	Laki Laki	Jl Badak Putih	002	002	Pemangkat	24 -06- 1964	Wiraswasta	P			
+579	Ety Surhati	6101055309720002	Perempuan	Jl Badak Putih	001	002	Pemangkat	13 -09- 1972	Mengurus Rumah Tangga	S			
+580	Taldi	6101052512920004	Laki Laki	Dusun Enggadang	002	001	Enggadang	25 -12- 1992	Petani / Pekebun	S			
+581	Mesi Nur Ramadhanti	6101055212990005	Perempuan	Dusun Enggadang	001	001	Pemangkat	12 -12- 1999	Mengurus Rumah Tangga	S			
+582	Mawardi	6101051606890006	Laki Laki	Dusun Enggadang	004	001	Enggadang	16 -06- 1969	Wiraswasta	S			
+583	Alex Syahputra	6101050608050003	Laki Laki	Dusun Sange Besi	004	001	Perapakan	08 -08- 2005	Pelajar / Mahasiswa	B			
+584	Zuniardi	6101050210900003	Laki Laki	Jl Teluk Nusa	001	010	Pemangkat	02 -010- 1990	Belum / Tidak Bekerja	B			
+585	Yuniastuti	6101054101040008	Perempuan	Jl SDN 4 GG Abd Hakim	002	008	Pemangkat	01 -01- 2004	Pelajar / Mahasiswa	B			
+586	Yulianti	6101054207690001	Perempuan	Jl Teluk Nusa	001	010	Pemangkat	02 -07- 1969	Mengurus Rumah Tangga	S			
+587	Uray Roslawati	610106550887003	Perempuan	Jl Sejahtera	001	006	Sambas	15 -05- 1967	Mengurus Rumah Tangga	S			
+588	Turliady	6101052606760008	Laki Laki	Jl Teluk Nusa	002	010	Selakau	26 -06- 1976	Wiraswasta	S			
+589	Teni Wulandari	6101056007950006	Perempuan	Jl Teluk Nusa	001	010	Blitar	20 -07- 1995	Mengurus Rumah Tangga	S			
+590	Suwandi	6101050605760006	Laki Laki	Jl Teluk Nusa	002	010	Pemangkat	05 -05- 1976	Wiraswasta	S			
+591	Susi Rejoice	6101055703020005	Perempuan	Jl Teluk Nusa	001	010	Pemangkat	17 -03- 2002	Belum / Tidak Bekerja	B			
+592	Siti Asih	6101055201960008	Perempuan	Jl A H Kasim	002	006	Pemangkat	12 -01- 1996	Mengurus Rumah Tangga	S			
+593	Sasmita	6101052810900001	Laki Laki	Jl Anom Dalam	004	008	Pemangkat	28 -010- 1990	Wiraswasta	S			
+594	Rusnah Naini	6101057112480001	Perempuan	Jl Anom	004	004	Pemangkat	31 -12- 1948	Mengurus Rumah Tangga	P			
+595	Ruslah Juhdi	6101055504600002	Perempuan	Jl Pembangunan GG Minahasa	006	009	Pemangkat	15 -04- 1960	Mengurus Rumah Tangga	P			
+596	Rika	6101055004800007	Perempuan	Jalan Teluk Nusa	002	010	Sepale	10 -04- 1980	Mengurus Rumah Tangga	S			
+597	Ria Restiana	6101054107450039	Perempuan	Dusun Teluk Nusa	004	010	Pemangkat	01 -07- 1995	Mengurus Rumah Tangga	S			
+598	Rasandi	6101050710760002	Laki Laki	Jl H Samab GG Perintis II	002	006	Pemangkat	07 -010- 1978	Wiraswasta	S			
+599	Raja Asal Harahap	6101051206560006	Laki Laki	Jalan Sejahtera	001	005	Tapanuli	12 -06- 1965	Buruh Harian Lepas	S			
+600	Rabudin	6101050806810007	Laki Laki	Dusun Teluk Nusa	004	010	Pemangkat	06 -06- 1981	Nelayan Perikanan	S	
+601	Puji Lestari	6101056510940002	Perempuan	Jl. A Kadir Kasim	006	007	Singkawang	25 -010- 1994	Pelajar / Mahasiswa	B			
+602	Norpah	6101054502670002	Perempuan	Jl Pembangunan GG H Yasin	003	008	Pemangkat	05 -02- 1987	Mengurus Rumah Tangga	S			
+603	Muhammad Rafi	6101052705030002	Laki Laki	Jalan Abdul Kadir Kasim	002	006	Pemangkat	27 -03- 2003	Belum / Tidak Bekerja	B			
+604	Maslina	6101056011500005	Perempuan	Jl Turusan Pemangkat	001	007	Pemangkat	20 -11- 1950	Mengurus Rumah Tangga	S			
+605	Marina	6101055903900004	Perempuan	Jl Turusan GG Minahasa Dalam	001	009	Pemangkat	19 -03- 1980	Mengurus Rumah Tangga	S			
+606	Mariana	6101054506920004	Perempuan	GG H Yasin	004	009	Pemangkat	05 -06- 1992	Mengurus Rumah Tangga	S			
+607	Manodi	6101050603750004	Laki Laki	Dusun Teluk Nusa	001	010	Jawai	06 -03- 1975	Buruh Harian Lepas	S			
+608	Lisa	6101056708830001	Perempuan	Jl Pembangunan GG Minahasa	006	009	Pemangkat	27 -08- 1983	Mengurus Rumah Tangga	S			
+609	Kustika Wati	6172015112860001	Perempuan	Jalan Sejahtera	001	005	Pemangkat	11 -12- 1996	Mengurus Rumah Tangga	S			
+610	Julita	6101056709800002	Perempuan	Jl Sejahtera GG Awang Jafar	006	004	Pemangkat	27 -09- 1980	Mengurus Rumah Tangga	P			
+611	Julfah Mahran	6101056304700001	Perempuan	Jl Minahasa Dalam	006	009	Rambaian	23 -04- 1970	Mengurus Rumah Tangga	S			
+612	Juita	6101056403020002	Perempuan	Jl Anom Dalam	004	008	Pemangkat	24 -03- 2002	Mengurus Rumah Tangga	S			
+613	Jamiat	6101051103830003	Laki Laki	Jl Turusan GG Minahasa Dalam	001	008	Pemangkat	11 -03- 1983	Nelayan Perikanan	S			
+614	Isam	6101052106850007	Laki Laki	Jalan Teluk Nusa	012	010	Bekumbak	21 -05- 1985	Wiraswasta	S			
+615	Imulyadi	6101050108020008	Laki Laki	Jalan Teluk Nusa	004	010	Pemangkat	01 -08- 2002	Pelajar / Mahasiswa	B			
+616	Heri	610105060589006	Laki Laki	Jalan Teluk Nusa	006	010	Pemangkat	06 -05- 1989	Wiraswasta	S			
+617	Hapida	6101055806720001	Perempuan	GG H Hasan Teluk Nusa	002	010	Rambayan	18 -06- 1972	Mengurus Rumah Tangga	S			
+618	Halimah	6101154203730001	Perempuan	Jl Teluk Nusa GG H Hasan	006	010	Sepuk	02 -03- 1973	Petani / Oekebun	P			
+619	Faisal Riza	6101051602750007	Laki Laki	GG Minahasa	006	009	Pemangkat	16 -02- 1975	Nelayan Perikanan	S			
+620	Fadila	6101055012760001	Perempuan	Jalan Teluk Nusa	001	010	Pemangkat	10 -12- 1976	Mengurus Rumah Tangga	P			
+621	Eka	6101054603940003	Perempuan	Jl Teluk Nusa GG Arsyad	007	010	Pemangkat	08 -04- 1990	Mengurus Rumah Tangga	S			
+622	Desi Ratnasari	6101054105960005	Perempuan	Jalan Pembangunan	003	007	Pemangkat	01 -05- 1998	Mengurus Rumah Tangga	S			
+623	Dahlia	6101054112730004	Perempuan	Dusun Teluk Nusa	001	010	Pemangkat	01 -12- 1973	Mengurus Rumah Tangga	S			
+624	Astuti	6101054204800003	Perempuan	Jl. H Saman GG Perintis	002	006	Pemangkat	02 -04- 1960	Mengurus Rumah Tangga	S			
+625	Andre Febrian	6101051102030002	Laki Laki	Jalan Pembangunan No 01	002	007	Pemangkat	11 -02- 2003	Belum / Tidak Bekerja	B			
+626	Wira Tama	6101051705790002	Laki Laki	Jalan Pangsuma	003	006	Pemangkat	17 -05- 1979	Wiraswasta	S			
+627	Wahyudi	6101052406780001	Laki Laki	Jalan Sejahtera	001	006	Pemangkat	24 -06- 1978	Wiraswasta	B			
+628	Surus Bin Karya	6101051204500003	Laki Laki	Jalan Sejahtera	001	006	Pemangkat	12 -04- 1960	Wiraswasta	S			
+629	Supardi	6101050710580001	Laki Laki	Jalan Sejahtera	001	006	Pemangkat	07 -010- 1958	Tukang Kayu	S			
+630	Riana	6101055403020004	Perempuan	Jl Sejahtera	001	005	Pemangkat	14 -03- 2002	Belum / Tidak Bekerja	B			
+631	Ramadan	6101052302010002	Laki Laki	Jalan Sejahtera	001	006	Pemangkat	01 -04- 1990	Pelajar / Mahasiswa	B			
+632	Nurhayati	6101054603670001	Perempuan	Jalan Sejahtera	001	005	Pemangkat	06 -03- 1967	Mengurus Rumah Tangga	P			
+633	Ngadimin Rejo	6101051410430002	Laki Laki	Jalan Sejahtera	002	006	Jember	14 -010- 1943	Buruh Harian Lepas	S			
+634	Juliati	6101054905700005	Perempuan	Dusun Sejahtera	005	004	Pemangkat	09 -05- 1970	Mengurus Rumah Tangga	P			
+635	Fitriani	6101054304720004	Perempuan	Jalan Sejahtera	001	005	Pemangkat	03 -04- 1972	Mengurus Rumah Tangga	S			
+636	Fernita Sari	6101055107940002	Perempuan	Jalan Sejahtera	001	005	Telok Air	11 -07- 1994	Pelajar / Mahasiswa	B			
+637	Fariza	6101054908590007	Perempuan	Jl Abdul Kadir Kasim Gang Gera\mbang	003	002	Pemangkat	09 -08- 1959	Mengurus Rumah Tangga	P			
+638	Asminah	6101054710670004	Perempuan	Jl. Sejahtera	001	006	Pemangkat	07 -010- 1967	Mengurus Rumah Tangga	S			
+639	Majidah	6101055407750003	Perempuan	Jl. SD 4	002	008	Buluh Parit	14 -07- 1975	PNS	S			
+640	Yusmina	6101126110680003	Perempuan	Dusun Beringin	012	004	Sempadian	21 -010- 1968	Petani / Pekebun	P			
+641	Wilda	6101035804890003	Perempuan	Dusun Beringin	012	006	Sentebang	18 -04- 1989	Petani / Pekebun	S			
+642	Wati	6101124501820001	Perempuan	Dusun Beringin	010	005	Sempadian	05 -01- 1982	Petani / Pekebun	S			
+643	Tiasa	6101126007860003	Perempuan	Dusun Beringin	009	005	Sempadian	20 -07- 1986	Petani / Pekebun	S			
+644	Surian	6101184208840001	Perempuan	Dusun Beringin	012	006	Serunai	02 -08- 1984	Mengurus Rumah Tangga	S			
+645	Sukayah	6101125407790002	Perempuan	Dusun Panggilan Bakti	019	001	Sempadian	14 -07- 1979	Mengurus Rumah Tangga	S			
+646	Sukariadi	6101122309820001	Laki Laki	Dusun Panggilan Bakti	001	001	Dusun Panggilan Bakti	21 -05- 1982	Petani / Pekebun	S			
+647	Sina	6101125906800001	Perempuan	Dusun Panggilan Bakti	006	003	Sempadian	19 -06- 1980	Petani / Pekebun	S			
+648	Salim	6101120312910001	Laki Laki	Dusun Beringin	012	006	Sempadian	03 -09- 1992	Petani / Pekebun	S			
+649	Sahrudin	6101122910730001	Laki Laki	Dusun Pangkalan Bakti	002	001	Sempadian	29 -010- 1973	Petani / Pekebun	B			
+650	Rusnah	6101125705590001	Perempuan	Dusun Beringin	011	006	Sempadian	17 -06- 1958	Petani / Pekebun	P			
+651	Rusmini	6101126511720002	Perempuan	Dusun Panggilan Bakti	006	003	Sempadian	25 -11- 1972	Petani / Pekebun	S			
+652	Rusmina	6101126006880001	Perempuan	Dusun Sinar Harapan	017	009	Sempadian	20 -06- 1988	Petani / Pekebun	S			
+653	Ruslan	6101120505790002	Laki Laki	Dusun Beringin	010	006	Sempadian	05 -03- 1979	Wiraswasta	S			
+654	Rusina	6101124211690003	Perempuan	Dusun Sinar Harapan	017	009	Sempadian	02 -11- 1969	Petani / Pekebun	P			
+655	Rumina	6101124703610001	Perempuan	Dusun Nur Bakti	013	007	Sui Toman	07 -03- 1961	Petani / Pekebun	S			
+656	Rizki	6101030812030003	Laki Laki	Dusun Sinar Harapan	018	009	Sarang Burung Danau	08 -12- 2003	Petani / Pekebun	B			
+657	Rico	6101120710840001	Laki Laki	Dusun Beringin	012	006	Sungai Baru	07 -010- 1964	Wiraswasta	S			
+658	Rasidah	6101124306630001	Perempuan	Dusun Panggilan Bakti	006	003	Sempadian	08 -08- 1963	Petani / Pekebun	S			
+659	Rabuni	6101124631910002	Perempuan	Dusun Sinar Harapan	018	009	Sempadian	06 -11- 1991	Wiraswasta	S			
+660	Rabunah	6101124301740001	Perempuan	Dusun Beringin	010	005	Sempadian	01 -12- 2021	Petani / Pekebun	P			
+661	Nursiah	6101125505800004	Perempuan	Dusun Beringin	009	005	Sempadian	15 -06- 1980	Petani / Pekebun	S			
+662	Nuriah	6101125401730002	Perempuan	Dsn Sinar Harapan	017	009	Sempadian	14 -01- 1973	Petani / Pekebun	S			
+663	Norsinah	610112671076	Perempuan	Dusun Panggilan Bakti	006	003	Sempadian	27 -010- 1976	Mengurus Rumah Tangga	S			
+664	Nannin	6101126006530003	Perempuan	Dusun Panggilan Bakti	005	003	Sempadian	20 -05- 1963	Petani / Pekebun	P			
+665	Mirna	6101124605820001	Perempuan	Dusun Panggilan Bakti	002	001	Sempadian	06 -05- 1982	Wiraswasta	S			
+666	Mat Sattu	6101120608870001	Laki Laki	Dusun Beringin	010	005	Sempadian	06 -08- 1987	Petani / Pekebun	B			
+667	Masura	6101125009600002	Perempuan	Dusun Beringin	010	005	Sempadian	10 -09- 1960	Petani / Pekebun	P			
+668	M. Hardi	6101120810630002	Laki Laki	Dusun Nur Bakti	013	007	Sempadian	08 -010- 1963	Petani / Pekebun	S			
+669	Kamila	6101120304710002	Laki Laki	Dusun Beringin	009	005	Sempadian	03 -04- 1973	Petani / Pekebun	S			
+670	Juniarti	6101126509980001	Perempuan	Dusun Panggilan Bakti	001	001	Sempadian	26 -09- 1998	Petani / Pekebun	S			
+671	Jono	6101121204640001	Laki Laki	Dusun Beringin	012	006	Segarau Parit	12 -04- 1964	Petani / Pekebun	S			
+672	Johan	6101120707800005	Laki Laki	Dusun Beringin	009	005	Jawai	07 -07- 1980	Petani / Pekebun	S			
+673	Jinim	6101124902800003	Perempuan	Dusun Sinar Harapan	017	008	Sempadian	09 -02- 1960	Petani / Pekebun	S			
+674	Jeni	6101045805930005	Perempuan	Dusun Beringin	010	005	Tebas Sungai	18 -05- 1993	Petani / Pekebun	S			
+675	Jamilah	6101124609800005	Perempuan	Dusun Beringin	010	005	Sempadian	06 -09- 1980	Petani / Pekebun	S			
+676	Jainah	6101124709600004	Perempuan	Dusun Beringin	010	005	Sempadian	07 -09- 1960	Petani / Pekebun	S			
+677	Iskandar	6101121009820002	Laki Laki	Dusun Panggilan Bakti	001	001	Sempadian	10 -09- 1982	Petani / Pekebun	S			
+678	Irma Wati	6101124706940001	Perempuan	Dusun Sinar Harapan	018	009	Sempadian	07 -06- 1994	Petani / Pekebun	S			
+679	Indra	6101124312830001	Perempuan	Dusun Beringin	010	005	Sempadian	03 -12- 1983	Petani / Pekebun	S			
+680	Herik	6101122609900001	Laki Laki	Dusun Beringin	012	006	Sempadian	26 -08- 1981	Petani / Pekebun	S			
+681	Hamidah	6101124502570002	Perempuan	Dusun Beringin	010	005	Sambas	05 -02- 1957	Petani / Pekebun	S			
+682	Hajimah	6101034112740002	Perempuan	Dusun Sinar Harapan	018	009	Sempadian	01 -12- 1974	Petani / Pekebun	S			
+683	Hadmah	6101124505810001	Perempuan	Dusun Panggilan Bakti	005	003	Sempadian	05 -05- 1981	Petani / Pekebun	S			
+684	Gustiyah	6101024311950006	Perempuan	Dusun Beringin	012	006	Sengawang	03 -11- 1995	Petani / Pekebun	S			
+685	Gusliani	6101125808050003	Perempuan	Dusun Beringin	009	005	Sempadian	18 -08- 2005	Petani / Pekebun	S			
+686	Guntur	6101030502620001	Laki Laki	Dusun Sinar Harapan	018	009	Sarang Burung Danau	05 -02- 1962	Petani / Pekebun	S			
+687	Gita	6101126704050001	Perempuan	Dusun Panggilan Bakti	005	003	Sempadian	27 -04- 2005	Petani / Pekebun	B			
+688	Gio Vani	6101120107960013	Laki Laki	Dusun Beringin	012	006	Sempadian	06 -01- 1996	Petani / Pekebun	B			
+689	Ervina	6101126704030001	Perempuan	Dusun Panggilan Bakti	005	003	Sempadian	27 -04- 2003	Petani / Pekebun	S			
+690	Desi	6101125510040001	Perempuan	Dusun Panggilan Bakti	005	003	Sempadian	13 -010- 2004	Petani / Pekebun	B			
+691	Deni	6101120610990002	Laki Laki	Dusun Nur Bakti	013	007	Sui Toman	05 -010- 1999	Belum / Tidak Bekerja	B			
+692	Atnah	6101124101820003	Perempuan	Dusun Beringin	010	005	Sempadian	01 -01- 1982	Petani / Pekebun	S			
+693	Anatasia	6107145007870001	Perempuan	Dusun Beringin	010	005	Jirak	10 -07- 1987	Petani / Pekebun	S			
+694	Zulina	6101124707880001	Perempuan	Dusun Sumber Lestari	012	006	Galik	07 -07- 1988	Petani / Pekebun	S			
+695	Nipano	6101021907010004	Laki Laki	Dusun Tambangan	004	002	Tambangan	19 -07- 2001	Pelajar / Mahasiswa	B			
+696	Jayadi	6101121112700004	Laki Laki	Dusun Meranti	007	004	Cepala	13 -12- 1970	Petani / Pekebun	P			
+697	Bartiah	6101025803690004	Perempuan	Dusun Ceremai	013	007	Sengawang	18 -03- 1969	Petani / Pekebun	S			
+698	Yesi	6101125204890001	Perempuan	Dusun Panggilan Bakti	006	003	Sempadian	12 -04- 1989	Wiraswasta	S			
+699	Wardillah	6101124703630002	Perempuan	Dusun Beringin	007	004	Parit Lintang	07 -03- 1963	Petani / Pekebun	S			
+700	Umi Kalsum	6101124508760004	Perempuan	Dusun Beringin	010	005	Pontianak	05 -08- 1976	Petani / Pekebun	S	
+701	Tulus Hidayat	6101121207920001	Laki Laki	Dusun Beringin	007	004	Sempadian	12 -07- 1992	Petani / Pekebun	B			
+702	Susi	6101044703040001	Perempuan	Dusun Beringin	007	004	Tebas Sungai	07 -03- 2004	Pelajar / Mahasiswa	B			
+703	Suryani	6101125102580001	Perempuan	Dusun Sinar Harapan	018	009	Sempadung	11 -02- 1958	Petani / Pekebun	S			
+704	Suhadi	6101122412930001	Laki Laki	Dusun Panggilan Bakti	005	003	Rambayan	24 -12- 1993	Wiraswasta	S			
+705	Suci	6101125705910001	Perempuan	Dusun Beringin	010	005	Sambas	17 -05- 1991	Petani / Pekebun	S			
+706	Siti Pazirah	6101126006900001	Perempuan	Dusun Beringin	007	004	TG Buluh	20 -06- 1990	Petani / Pekebun	S			
+707	Sima Fitri Dewi	6101126912000003	Perempuan	Dusun Beringin	007	004	Sempadian	29 -12- 2000	Pelajar / Mahasiswa	B			
+708	Sera	6101125801880001	Perempuan	Dusun Beringin	007	004	Sempadian	18 -01- 1988	Petani / Pekebun	S			
+709	Satunah	6101124203820001	Perempuan	Dusun Beringin	007	004	Sempadian	02 -03- 1982	Petani / Pekebun	S			
+710	Sapari	6101120704860002	Laki Laki	Dusun Beringin	007	004	Sempadian	07 -04- 1966	Petani / Pekebun	B			
+711	Saparhan	6101122202760001	Laki Laki	Dusun Beringin	007	004	Sempadian	22 -02- 1976	Petani / Pekebun	S			
+712	Saninah	6101124907870002	Perempuan	Dusun Sinar Harapan	018	009	Sempadian	09 -07- 1987	Petani / Pekebun	S			
+713	Rusdah Hairi	6101125602760002	Perempuan	Dusun Beringin	007	004	Sempadian	16 -02- 1976	Petani / Pekebun	S			
+714	Roni	6101120305520001	Laki Laki	Dusun Beringin	007	004	Sempadian	03 -05- 1952	Petani / Pekebun	S			
+715	Rini	6101124210890005	Perempuan	Dusun Beringin	007	004	Sempadian	02 -010- 1989	Wiraswasta	S			
+716	Rahmat	6101122004800001	Laki Laki	Dusun Beringin	007	004	Sempadian	20 -04- 1980	Petani / Pekebun	B			
+717	Norsiah	6101124106500001	Perempuan	Dusun Beringin	012	006	Sebelitak	01 -06- 1950	Petani / Pekebun	S			
+718	Nanen	6101125110640002	Perempuan	Dusun Nur Bakti	014	007	Sempadian	11 -010- 1964	Petani / Pekebun	S			
+719	Murtidah	6101125109650001	Perempuan	Dusun Beringin	012	006	Perasak	11 -09- 1965	Petani / Pekebun	S			
+720	Minhat	6101120705730002	Laki Laki	Dusun Nur Bakti	016	008	Sempadian	07 -06- 1973	Petani / Pekebun	S			
+721	Matna	6101044802660004	Perempuan	Dusun Beringin	007	004	Sempadian	08 -02- 1966	Petani / Pekebun	S			
+722	Marsiah	6101125707790003	Perempuan	Dusun Beringin	007	004	Sempadian	17 -07- 1979	Petani / Pekebun	S			
+723	Mamat	6101122205720003	Laki Laki	Dusun Beringin	007	004	Sempadian	22 -05- 1972	Petani / Pekebun	S			
+724	Mahrus	6101120402620001	Laki Laki	Dusun Nur Bakti	014	007	Sempadian	04 -02- 1962	Petani / Pekebun	B			
+725	Juliansyah	6171011807760003	Laki Laki	Dusun Beringin	007	004	Pontianak	18 -07- 1977	Karyawan Swasta	S			
+726	Jiddi	6101120601700003	Laki Laki	Dusun Beringin	011	006	Sempadian	06 -01- 1970	Petani / Pekebun	S			
+727	Iswan	6101122303980001	Laki Laki	Dusun Beringin	007	004	Sempadian	23 -03- 1998	Pelajar / Mahasiswa	B			
+728	Ikram	6101120812500002	Laki Laki	Dusun Beringin	007	004	Sempadian	08 -12- 1950	Petani / Pekebun	S			
+729	Hery	6101120103020001	Laki Laki	Dusun Beringin	007	004	Sempadian	01 -03- 2002	Pelajar / Mahasiswa	B			
+730	Hazizah	6101124516720004	Perempuan	Dusun Beringin	012	006	Sempadian	05 -010- 1972	Petani / Pekebun	S			
+731	Hanif	6101121104540001	Laki Laki	Dusun Beringin	007	004	Sempadian	11 -04- 1954	Petani / Pekebun	S			
+732	Hamdani Jali	6101121212710002	Laki Laki	Dusun Beringin	010	005	Sempadian	12 -12- 1971	Petani / Pekebun	S			
+733	Hamdan	6101120209610002	Laki Laki	Dusun Beringin	007	004	Sempadian	02 -09- 1961	Wiraswasta	S			
+734	Erni	6101124205720001	Perempuan	Dusun Beringin	007	004	Sempadian	02 -05- 1972	Petani / Pekebun	S			
+735	Emelia	6101124609720002	Perempuan	Dusun Panggilan Bakti	005	003	Sempadian	06 -09- 1972	Petani / Pekebun	S			
+736	Daryanto	6101123118800001	Laki Laki	Dusun Sinar Harapan	018	009	Boyolali	31 -12- 1980	Wiraswasta	S			
+737	Dare	6101124702640001	Perempuan	Dusun Beringin	007	004	Sempadian	07 -02- 1964	Petani / Pekebun	P			
+738	Bulyan	6101120107820015	Laki Laki	Dusun Beringin	007	004	Sempadian	01 -07- 1982	Petani / Pekebun	B			
+739	Bahtiar Muhammad	6101120609500002	Laki Laki	Dusun Beringin	007	004	Sempadian	06 -09- 1950	Petani / Pekebun	S			
+740	Audi	6101120910840003	Laki Laki	Dusun Beringin	009	005	Sempadian	09 -010- 1984	Petani / Pekebun	B			
+741	Asri	6101120606600002	Laki Laki	Dusun Beringin	007	004	Sempadian	06 -06- 1960	Petani / Pekebun	S			
+742	Asran	6101120309570001	Laki Laki	Dusun Beringin	007	004	Sempadian	03 -06- 1957	Petani / Pekebun	P			
+743	Anita Rasidi	6101125003830002	Perempuan	Dusun Beringin	012	006	Sempadian	10 -03- 1983	Petani / Pekebun	S			
+744	Anip	6101121208540001	Laki Laki	Dusun Beringin	007	004	Sempadian	12 -08- 1954	Petani / Pekebun	S			
+745	Aisah	6101125705890001	Perempuan	Dusun Nur Bakti	014	007	Sempadian	17 -05- 1989	Karyawan Honorer	S			
+746	Abdul Hadi	6101121407770001	Laki Laki	Dusun Beringin	007	004	Sabaran	14 -07- 1977	Petani / Pekebun	S			
+747	Trimurti	6101125103730003	Perempuan	Dusun Sinar Harapan	018	009	Sempadian	11 -03- 1973	Petani / Pekebun	S			
+748	Timah	6101124704680001	Perempuan	Dusun Beringin	007	004	Sempadian	07 -04- 1968	Petani / Pekebun	S			
+749	Suroto	6101120402740005	Laki Laki	Sinar Harapan	018	009	Cilacap	04 -02- 1974	Petani / Pekebun	S			
+750	Suriadi	6101122403700001	Laki Laki	Dusun Beringin	007	004	Sempadian	24 -03- 1970	Petani / Pekebun	S			
+751	Supiah	6101126008530002	Perempuan	Dusun Beringin	007	004	Sempadian	20 -08- 1953	Petani / Pekebun	S			
+752	Siti Rajuna	6101125404720002	Perempuan	Dusun Beringin	007	004	Pelanjau	14 -05- 1972	Petani / Pekebun	S			
+753	Sarman	6101120408710001	Laki Laki	Dusun Beringin	007	004	Sebambang	04 -08- 1971	Petani / Pekebun	S			
+754	Sapura	6101126706580001	Perempuan	Dusun Beringin	009	005	Sempadian	27 -06- 1958	Petani / Pekebun	P			
+755	Samsudi	6101120708700001	Laki Laki	Dusun Panggilan Bakti	005	003	Sempadian	07 -08- 1970	Petani / Pekebun	S			
+756	Raihan	6101124107560013	Perempuan	Dusun Beringin	007	004	Sempadian	01 -07- 1966	Petani / Pekebun	S			
+757	Pahimah	6101125902640001	Perempuan	Dusun Beringin	007	004	TG. Buluh	19 -02- 1964	Petani / Pekebun	S			
+758	Nema	6101124107590001	Perempuan	Dusun Panggilan Bakti	019	001	Sekuduk	01 -07- 1959	Petani / Pekebun	P			
+759	Marija	6101124712570001	Perempuan	Dusun Beringin	007	004	Sempadian	07 -12- 1957	Petani / Pekebun	S			
+760	Maria A.Md.E	6101125009970001	Perempuan	Dusun Panggilan Bakti	005	003	Sempadian	10 -04- 1997	Karyawan Swasta	S			
+761	Lidia Arma	6101125103000001	Perempuan	Dusun Panggilan Bakti	019	001	Sempadian	11 -03- 2000	Petani / Pekebun	S			
+762	Junarti	6101124806800001	Perempuan	Dusun Beringin	007	004	Sempadian	08 -06- 1980	Petani / Pekebun	S			
+763	Julia	6101124107600011	Perempuan	Dusun Beringin	007	004	Sempadian	01 -07- 1960	Petani / Pekebun	S			
+764	Jamaludin	6101120410910001	Laki Laki	Dusun Beringin	007	004	Sempadian	04 -010- 1991	Petani / Pekebun	B			
+765	Iswadi	6101121604760002	Laki Laki	Dusun Beringin	007	004	Sempadian	16 -04- 1976	Petani / Pekebun	B			
+766	Imah	6101124604740001	Perempuan	Dusun Beringin	007	004	Sempadian	06 -04- 1974	Petani / Pekebun	S			
+767	Ida	6101124503730006	Perempuan	Dusun Panggilan Bakti	019	001	Sempadian	05 -03- 1973	Petani / Pekebun	P			
+768	Hendri	6101121009760001	Laki Laki	Dusun Beringin	007	004	Sempadian	10 -09- 1976	Petani / Pekebun	S			
+769	Hamdi ST	6101120404900002	Laki Laki	Dusun Beringin	007	004	Sempadian	04 -04- 1990	Petani / Pekebun	B			
+770	Darian	6101124511620002	Perempuan	Dusun Beringin	007	004	Sengawang	05 -11- 1962	Petani / Pekebun	S			
+771	Budang Ahmad	6101120906720002	Laki Laki	Dusun Beringin	006	004	Sempadian	09 -06- 1972	Petani / Pekebun	S			
+772	Bambang	6101120405770002	Laki Laki	Dusun Beringin	007	004	Sempadian	04 -05- 1977	Petani / Pekebun	S			
+773	Aswat	6101121903780001	Laki Laki	Dusun Beringin	007	004	Sempadian	19 -03- 1978	Petani / Pekebun	S			
+774	Arsadi	6101122803840001	Laki Laki	Dsn Beringin	007	004	Sempadian	28 -03- 1984	Petani / Pekebun	B			
+775	Agus Triwanto	6101120108020004	Laki Laki	Dusun Sinar Harapan	018	009	Sempadian	01 -08- 2002	Pelajar / Mahasiswa	B			
+776	Agus Supriyanto	6101121504650002	Laki Laki	Dusun Beringin	007	004	Purbalingga	15 -04- 1965	Wiraswasta	S			
+777	Nazliafini	610102420670003	Perempuan	Dusun Karti	006	003	Karti	02 -06- 1972	Petani / Pekebun	S			
+778	Supardi	6101022008600002	Laki Laki	Dusun Mensungai	024	011	Sekura	20 -08- 1980	Pegawai Negeri Sipil (PNS)	S			
+779	Uray Nabila	6101014210050007	Perempuan	Dusun Dagang Timur	001	001	Sambas	02 -010- 2005	Pelajar / Mahasiswa	B			
+780	Tamrin	6101012001400002	Laki Laki	Dagang TImur	001	001	Sambas	20 -01- 1940	Petani / Pekebun	S			
+781	Syaukani	6101010605580003	Laki Laki	Dusun Dagang Timur	003	002	Sambas	06 -05- 1958	Pensiunan	S			
+782	Suwaidah	610101457480002	Perempuan	Dusun Dagang Timur	003	002	Sambas	05 -07- 1948	Mengurus Rumah Tangga	S			
+783	Samha	6101015508450005	Perempuan	Dusun Dagang Timur	003	002	Sambas	15 -08- 1945	Mengurus Rumah Tangga	S			
+784	Rusman	6101011203670002	Laki Laki	Dusun Dagang Timur	003	002	Sambas	12 -03- 1967	Wiraswasta	B			
+785	Muhammad yusuf Al Fattah	6101011204000004	Laki Laki	Dusun Dagang Barat	007	004	Sambas	12 -04- 2000	Pelajar / Mahasiswa	B			
+786	Julina	6101014608720003	Perempuan	Dusun Dagang Barat	007	004	Sambas	06 -08- 1972	Mengurus Rumah Tangga	S			
+787	Jamiah	6101015706790003	Perempuan	Dusun Dagang Barat	007	004	Sambas	17 -06- 1979	Wiraswasta	S			
+788	Irdawati	6101016610810001	Perempuan	Dusun Dagang Timur	003	002	Sambas	26 -010- 1981	Belum / Tidak Bekerja	B			
+789	Indra Kusuma	6101013010990006	Laki Laki	Dusun Dagang Barat	007	004	Sambas	30 -010- 1999	Pelajar / Mahasiswa	B			
+790	Imam Wahyudi	6101012608950002	Laki Laki	Dusun Dagang Timur	003	002	Singkawang	26 -08- 1995	Wiraswasta	B			
+791	Hj. Sasmita	610101518620003	Perempuan	Dusun Dagang Timur	003	002	Sambas	11 -08- 1961	Pegawai Negeri Sipil (PNS)	S			
+792	Hazan	6101012703450001	Laki Laki	Dusun Dagang TImur	003	002	Sambas	27 -03- 1945	Petani / Pekebun	S			
+793	Hanidah	6101014411660001	Perempuan	Dusun Dagang Timur	003	002	Sambas	04 -11- 1966	Mengurus Rumah Tangga	S			
+794	H. Sunardi	6101011403630007	Laki Laki	Dusun Dagang Timur	003	002	Sambas	14 -03- 1963	Pegawai Negeri Sipil (PNS)	S			
+795	Fathir	6112011602610002	Laki Laki	Dusun Dagang Barat	007	004	Sambas	15 -02- 1961	Pensiunan	S			
+796	Bustami	6101011008510003	Laki Laki	Dusun Dagang Barat	007	004	Sambas	10 -08- 1951	Petani / Pekebun	S			
+797	Astuti	6101016411890003	Perempuan	Dusun Dagang Timur	001	001	Sambas	21 -11- 1989	Mengurus Rumah Tangga	S			
+798	Ahmad Yani	6101010505650004	Laki Laki	Dusun Dagang Timur	003	002	Sambas	05 -05- 1965	Wiraswasta	B			
+799	Abu Bakar	6101011012330001	Laki Laki	Dusun Dagang Timur	003	002	Sambas	10 -12- 1933	Petani / Pekebun	S			
+800	Supriyanti	6202056003660001	Perempuan	Dusun Sukamantri	011	003	Kulonprogo	20 -03- 1966	Mengurus Rumah Tangga	S	
+801	Salma Rizkika	6202056009020003	Perempuan	Dusun Sukamantri	011	003	Palangkaraya	20 -09- 2002	Pelajar / Mahasiswa	B			
+802	Sahadah	6101015812500002	Perempuan	Desa Dalam Kaum	004	001	Sambas	18 -12- 1950	Mengurus Rumah Tangga	S			
+803	Irfan Rabbani	6202050810990001	Laki Laki	Dusun Sukamantri	011	003	Pangkalanbun	08 -010- 1999	Pelajar / Mahasiswa	B			
+804	Andi Subekti	6202052512600004	Laki Laki	Dusun Sukamantri	011	003	Sambas	25 -12- 1960	Wiraswasta	S			
+805	Galih Prayoga	6101020603030004	Laki Laki	Dsn. Tanjung Rengas	001	001	Sekura	06 -03- 2003	Pelajar / Mahasiswa	B			
+806	Marisa	6101015003860002	Perempuan	Jl. Gusti Hamzah	006	003	Sambas	10 -03- 1986	Mengurus Rumah Tangga	S			
+807	Ainah	6101016211630001	Perempuan	Dsn Semberang 1	005	002	Sambas	22 -11- 1963	Mengurus Rumah Tangga	S			
+808	Hajidin	6112012711770001	Laki Laki	Perum Sejahtera Indah A.15	008	003	Singkawang	27 -11- 1977	Belum / Tidak Bekerja	B			
+809	Hj. Mau'izah Djuhni	6112014411450001	Perempuan	Perum Sejahtera Indah A.15	030	001	Sambas	04 -11- 1945	Mengurus Rumah Tangga	S			
+810	Dodi Imansyah	6101021908000004	Laki Laki	Jalan Kalimantan Dusun Mensungai	024	012	Sekura	19 -08- 2000	Pelajar / Mahasiswa	B			
+811	Ruminah	6101114607870006	Perempuan	Jalan Kalimantan Dusun Mensungai	024	012	Galing	06 -07- 1987	Mengurus Rumah Tangga	S			
+812	Hasnan	6101021303620002	Laki Laki	Jalan Kalimantan Dusun Mensungai	024	012	Sekura	13 -03- 1962	Pegawai Negeri Sipil (PNS)	B			
+813	Evi Suriani	6101025706000002	Perempuan	Dusun Mensungai	024	012	Sekura	17 -06- 2000	Pelajar / Mahasiswa	B			
+814	Alya Rahmadani	6101025711040003	Perempuan	Jalan Kalimantan	024	012	Sekura	17 -11- 2004	Wiraswasta	B			
+815	Mustiah Sani	6101025104750006	Perempuan	Dusun Mensungai	024	012	Sekura	11 -04- 1975	Mengurus Rumah Tangga	S			
+816	Sani Jahri	6101021501470001	Laki Laki	Jalan Kalimantan Dusun Mensungai	024	012	Sekura	15 -01- 1947	Petani / Pekebun	S			
+817	Talhah	6101024204500003	Perempuan	Jalan Kalimantan Dusun Mensungai	024	012	Sekura	02 -04- 1950	Petani / Pekebun	S			
+818	Romi	6101021304820004	Laki Laki	Dusun Karti	005	003	Karti	13 -04- 1982	Wiraswasta	B			
+819	Rustiana	6101024311670003	Perempuan	Dusun Karti	006	003	Karti	03 -11- 1967	Karyawan Swasta	P			
+820	Rusmina	6101026704820019	Perempuan	Dusun Karti	005	003	Semata	27 -04- 1982	Petani / Pekebun	S			
+821	Reynaldi	6101022204000003	Laki Laki	Dusun Sepandan			Sekura	22 -04- 2000	Wiraswasta	S			
+822	Aprilianti	6101014704900004	Perempuan	Dusun Sungai Guntung	003	002	Sambas	07 -04- 1990	Mengurus Rumah Tangga	S
